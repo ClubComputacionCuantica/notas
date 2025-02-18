@@ -1,0 +1,3 @@
+Considérese un [[grafo]] $G = (V, E)$ y un subconjunto de aristas $F \subset E$. En un ligero abuso de notación, denotamos por $G \cup F$ el grafo resultante de unir las aristas en $F$ al grafo $G$, resultando en $G \cup F \coloneqq (V, E \cup F)$. De manera similar, definimos el grafo resultante de sumar las aristas en $F$ a $G$ como $G + F \coloneqq (V, E + F)$, donde $E + F$ representa la diferencia simétrica entre $E$ y $F$, definida por $E + F = (E \cup F) \setminus (E \cap F)$.
+
+%%Nótese que la diferencia simétrica corresponde a la adición módulo 2 o a la operación XOR componente a componente si los conjuntos son considerados como vectores bidimensionales sobre el campo entero $\mathbb{F}_2$ módulo 2.%% #pregunta 

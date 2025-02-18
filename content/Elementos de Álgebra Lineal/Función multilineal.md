@@ -1,0 +1,4 @@
+Una _función multilineal_ es una función que es lineal en cada uno de sus argumentos por separado. Formalmente, sean $V_1, V_2, \ldots, V_n$  [[Espacio vectorial|espacios vectoriales]] sobre un campo común $\mathbb{F}$. Se dice que $f: V_1 \times V_2 \times \cdots \times V_n \to W$  es _multilineal_ si para cada $i \in \{1, 2, \ldots, n\}$, manteniendo fijos los argumentos en todas las posiciones excepto en la $i$-ésima, la función resultante de $V_i$ en $W$ es lineal. Esto es, para todos los vectores $v_{i1}, v_{i2} \in V_i$ y todos los escalares $a, b \in \mathbb{F}$, la función $f$ satisface:
+$$
+f(v_1, \ldots, av_{i1} + bv_{i2}, \ldots, v_n) = af(v_1, \ldots, v_{i1}, \ldots, v_n) + bf(v_1, \ldots, v_{i2}, \ldots, v_n),
+$$

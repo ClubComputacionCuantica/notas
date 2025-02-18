@@ -1,0 +1,3 @@
+A cualquier cantidad medible físicamente, (llamada _observable_ o _variable dinámica_), corresponde un [[Operadores Hermitianos|operador Hermitiano]] cuyos [[Eigenvalores y eigenvectores|eigenvectores]] forman una [[Base y dimensión|base]] para el espacio de Hilbert [[Postulado 1. El estado de un sistema|asociado al sistema]].
+
+Como elementos del espacio de Hilbert, los eigenvectores de cada operador a menudo son llamados _eigenestados_.

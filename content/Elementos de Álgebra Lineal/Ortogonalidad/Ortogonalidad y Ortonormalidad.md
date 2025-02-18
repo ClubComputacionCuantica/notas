@@ -1,0 +1,5 @@
+Dos vectores $\mathbf{u}$ y $\mathbf{v}$ en un [[Espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$ se dicen _ortogonales_ si su producto interno es cero, es decir, si cumple con la siguiente condición: $$\langle \mathbf{u} | \mathbf{v} \rangle = 0$$Esta definición implica que los dos vectores son perpendiculares entre sí en el contexto del espacio vectorial $V$, considerando la estructura inducida por el producto interno definido previamente.
+
+Un conjunto de vectores $\{\mathbf{u_1}, \mathbf{u_2}, \ldots, \mathbf{u_n}\}$ en $V$ se denomina _conjunto ortogonal_ si cada par de vectores distintos dentro del conjunto son ortogonales. I.e. para todo $i \neq j$, se tiene que $\langle \mathbf{u_i} | \mathbf{u_j} \rangle = 0$.
+
+Adicionalmente, un conjunto de vectores ${\mathbf{u_1}, \mathbf{u_2}, \ldots, \mathbf{u_n}}$ en un espacio vectorial $V$ sobre $\mathbb{R}$ o $\mathbb{C}$ se dice _ortonormal_ si es ortogonal y cada vector en el conjunto es un vector unitario, es decir, para todo $i$, se tiene que $\|\mathbf{u_i}\| = 1$ donde la norma corresponde a la [[Norma inducida por el producto interno]].

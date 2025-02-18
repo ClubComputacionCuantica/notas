@@ -1,0 +1,10 @@
+El proceso de Ortogonalización de Gram-Schmidt es un método algorítmico que permite transformar cualquier [[Combinaciones lineales e independencia lineal|conjunto de vectores linealmente independientes]] en un conjunto [[Ortogonalidad y Ortonormalidad|ortogonal]] (u ortonormal si se normalizan los vectores resultantes) en el mismo espacio vectorial. Formalmente, sea $V$ un [[Espacio vectorial]] sobre el campo $\mathbb{F}$, donde $\mathbb{F}$ puede ser $\mathbb{R}$ o $\mathbb{C}$, y sea $\langle \cdot | \cdot \rangle$ un producto interno definido en $V$. Consideremos un conjunto de vectores linealmente independientes $\{\ket{v_1}, \ket{v_2}, \ldots, \ket{v_n}\}$ en $V$. El proceso se describe como sigue:
+
+1. **Inicialización**: Seleccionar el primer vector $\ket{v_1}$ y normalizarlo (si se desea un conjunto ortonormal) para obtener el primer vector ortogonal $\ket{u_1} = \frac{\ket{v_1}}{\|\ket{v_1}\|}$, donde $\|\ket{v_1}\| = \sqrt{\langle \mathbf{v_1} | \mathbf{v_1} \rangle}$.
+
+2. **Ortogonalización**: Para cada $k = 2, \ldots, n$, realizar los siguientes pasos:
+   - Calcular el componente de $\ket{v_k}$ ortogonal a cada uno de los vectores $\ket{u_1}, \ket{u_2}, \ldots, \ket{u_{k-1}}$ ya encontrados, mediante la fórmula:$$\ket{w_k} = \ket{v_k} - \sum_{j=1}^{k-1} \frac{\langle u_j | v_k \rangle}{\langle u_j | u_j \rangle} \ket{u_j}.$$
+   - Normalizar $\ket{w_k}$ para obtener $\ket{u_k}$ (si se desea un conjunto ortonormal)$$:\ket{u_k} = \frac{\ket{w_k}}{\|\ket{w_k}\|}, \text{ donde } \|\ket{w_k}\| = \sqrt{\langle \mathbf{w_k} | \mathbf{w_k} \rangle}.$$
+Este proceso garantiza que el conjunto $\{\ket{u_1}, \ket{u_2}, \ldots, \ket{u_n}\}$ es ortogonal (u ortonormal si se normaliza cada $\ket{u_k}$) y que cada $\ket{u_k}$ está en el [[Subespacio generado por un conjunto de vectores|espacio generado]] por $\{\ket{v_1}, \ket{v_2}, \ldots, \ket{v_k}\}$. La ortogonalidad se verifica mediante el producto interno, asegurando que $\langle u_i | u_j \rangle = 0$ para $i \neq j$, y en el caso ortonormal, además, $\|\ket{u_i}\| = 1$ para todo $i$.
+
+#por-revisar

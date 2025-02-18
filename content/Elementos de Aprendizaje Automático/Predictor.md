@@ -1,0 +1,3 @@
+Un _predictor_ o _modelo de predicción_ es una función que mapea un [[Conceptos básicos de aprendizaje automático|espacio de entrada]] a un espacio de salida, haciendo predicciones basadas en el modelo aprendido. $$f:\mathbb{R}^D\rightarrow\mathbb{R}$$En este caso consideramos el caso particular de [[funciones lineales]] $$f(\mathbf{x}) = \mathbf{\theta}^{T}\mathbf{x}+\theta_0$$ para incógnitas $\mathbf{\theta}$ y $\theta_0$.
+
+Adicionalmente, se considera que los datos son observaciones con ruido, i.e. variaciones debidas a algún efecto subyacente, por tanto se requiere una manera de definir los proyectores cuantificando la confianza que tenemos sobre el valor de la prediccion para un [[Conceptos básicos de aprendizaje automático|punto de datos]] particular.

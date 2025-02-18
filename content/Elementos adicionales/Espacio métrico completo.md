@@ -1,0 +1,1 @@
+Un [[Espacio métrico]] $(X, d)$ se dice _completo_ si toda [[Sucesión de Cauchy]] en $X$ converge a un punto en $X$. Es decir, para toda sucesión de Cauchy $(\mathbf{x_n})_{n\in\mathbb{N}}$ en $X$, existe un $\mathbf{x} \in X$ tal que $\lim_{n \to \infty} \mathbf{x_n} = \mathbf{x}$.

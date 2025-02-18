@@ -1,0 +1,2 @@
+Asociado a cualquier sistema cuántico existe un [[Espacio de Hilbert]] y el estado del sistema queda completamente determinado por un vector unitario en tal espacio. A menudo se hace referencia a este vector como _estado cuántico_, _función de onda_, _vector de estado_.
+El requisito de tener un vector unitario corresponde a la [[Interpretación estadística de la mecánica cuántica]].

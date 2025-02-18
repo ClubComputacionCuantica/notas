@@ -1,0 +1,1 @@
+Dado un grafo $G=(V,E)$ y un subconjunto $A\subset V$, es posible definir el _subgrafo_ $G[A]$, que se obtiene de [[Eliminación de vértices y aristas en un grafo|eliminar los vértices]] de $V$ que no están en $A$.

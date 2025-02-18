@@ -1,0 +1,5 @@
+Una función lineal o \emph{transformación lineal} es una función entre dos espacios vectoriales que preserva las operaciones de adición de vectores y multiplicación por escalares. Formalmente, una función T:V→WT: V \rightarrow WT:V→W entre dos espacios vectoriales VVV y WWW sobre el mismo campo F\mathbb{F}F es lineal si cumple las siguientes condiciones:
+
+\begin{enumerate} \item \textbf{Aditividad}: Para todos u,v∈V\mathbf{u}, \mathbf{v} \in Vu,v∈V, se debe cumplir que T(u+v)=T(u)+T(v). T(\mathbf{u} + \mathbf{v}) = T(\mathbf{u}) + T(\mathbf{v}). T(u+v)=T(u)+T(v). \item \textbf{Homogeneidad Escalar}: Para todo v∈V\mathbf{v} \in Vv∈V y cualquier escalar a∈Fa \in \mathbb{F}a∈F, se debe cumplir que T(av)=aT(v). T(a\mathbf{v}) = aT(\mathbf{v}). T(av)=aT(v). \end{enumerate}
+
+Estas propiedades garantizan que la transformación TTT no solo mapea vectores de VVV a vectores de WWW, sino que también conserva la estructura algebraica de los espacios vectoriales involucrados. Esto incluye la conservación de combinaciones lineales de vectores, lo que es fundamental para muchas aplicaciones en matemáticas y ciencias aplicadas.
