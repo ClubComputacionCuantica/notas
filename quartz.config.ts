@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Club de Computación Cuántica",
+    pageTitle: "Notas del Club de Computación Cuántica",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
