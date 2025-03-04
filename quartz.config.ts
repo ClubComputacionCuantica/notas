@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "es-ES",
-    baseUrl: "clubcomputacioncuantica.github.io/notas",
+    baseUrl: "clubcomputacioncuantica.github.io/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
