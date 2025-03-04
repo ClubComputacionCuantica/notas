@@ -43,7 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 30, // how long should the links be by default?
         fontSize: 0.4, // what size should the node labels be?
         opacityScale: 1, // how quickly do we fade out the labels when zooming out?
-        removeTags: ["#pendiente"], // what tags to remove from the graph
+        removeTags: [], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
         enableRadial: false, // whether to constrain the graph, similar to Obsidian
       },
@@ -57,7 +57,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 30,
         fontSize: 0.4,
         opacityScale: 1,
-        removeTags: ["#pendiente"], // what tags to remove from the graph
+        removeTags: [], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
         enableRadial: true, // whether to constrain the graph, similar to Obsidian
       },
