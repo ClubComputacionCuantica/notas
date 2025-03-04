@@ -1,4 +1,4 @@
-El _doble dual_ de un [[Espacio vectorial]] $V$, denotado como $V^{**}$, se define como el [[Espacio dual]] del dual de $V$, i.e. $V^{**}\coloneqq(V^*)^*$. Cada elemento de $V^{**}$, por lo tanto, es una función que toma como entrada un funcional lineal en $V^*$ y devuelve un escalar en $\mathbb{F}$. 
+El _doble dual_ de un [[espacio vectorial]] $V$, denotado como $V^{**}$, se define como el [[Espacio dual]] del dual de $V$, i.e. $V^{**}\coloneqq(V^*)^*$. Cada elemento de $V^{**}$, por lo tanto, es una función que toma como entrada un funcional lineal en $V^*$ y devuelve un escalar en $\mathbb{F}$. 
 
 Para cada $\mathbf{v} \in V$, existe una correspondencia natural en $V^{**}$ definida por la evaluación $\phi_{\mathbf{v}}: V^* \rightarrow \mathbb{F}$, donde $\phi_{\mathbf{v}}(f) = f(\mathbf{v})$ para todo $f \in V^*$. En el caso de que $V$ sea un espacio vectorial de dimensión finita, esta correspondencia establece un [[Isomorfismo de espacios vectoriales|isomorfismo]] entre $V$ y $V^{**}$. Con mayor precision, 
 $$

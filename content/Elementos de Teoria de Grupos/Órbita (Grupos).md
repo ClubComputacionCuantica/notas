@@ -1,4 +1,4 @@
-Sean $G$ un [[grupo]], $X$ un conjunto y $\ast : G \times X \rightarrow X$ una [[acción de grupo]].
+Sean $G$ un [[grupo]], $X$ un conjunto y $\ast : G \times X \rightarrow X$ una [[Acción de grupo]].
 La _órbita_ de un elemento $x\in X$ se define como
 $$
 Orb(x):=\{y\in X| \exists g\in G : y = g \ast x\} = G\ast x

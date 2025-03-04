@@ -4,6 +4,6 @@ Un _estado estabilizador de_ $n$ _qubits_, o $n$-_estado estabilizador,_ es un e
 
 Las $n$ ecuaciones de eigenvalores $M_i \ket{\psi} =\ket{\psi}$ definen completamente a los estados estabilizadores $\ket{\psi}$ (up to an arbitrary phase). 
 
-Los $n$ operadores $M_i$ son llamados los _generadores_ del correspondiente [[estabilizador]] $\mathcal{S}$, puesto que cada $M\in \mathcal{S}$ puede escribirse como $M = M_1^{x_1}\dots M_n^{x_n}$
+Los $n$ operadores $M_i$ son llamados los _generadores_ del correspondiente [[Estabilizador]] $\mathcal{S}$, puesto que cada $M\in \mathcal{S}$ puede escribirse como $M = M_1^{x_1}\dots M_n^{x_n}$
 
 Con $n$ operadores $M_i$, restringimos el espacio de Hilbert de $2^n$ posibles estados a un único estado cuántico

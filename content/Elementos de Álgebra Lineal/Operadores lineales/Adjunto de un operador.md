@@ -1,4 +1,4 @@
-Sea $V$ un [[Espacio vectorial]] de [[Base y dimensión|dimensión finita]] con producto interno $( \cdot , \cdot ) : V \times V \rightarrow \mathbb{F}$. Dado un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$, existe un único operador $A^\dagger : V \rightarrow V$ tal que
+Sea $V$ un [[espacio vectorial]] de [[Base y dimensión|dimensión finita]] con producto interno $( \cdot , \cdot ) : V \times V \rightarrow \mathbb{F}$. Dado un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$, existe un único operador $A^\dagger : V \rightarrow V$ tal que
 $$
 (\ket{v},A\ket{w})=(A^\dagger \ket{v},\ket{w})
 $$

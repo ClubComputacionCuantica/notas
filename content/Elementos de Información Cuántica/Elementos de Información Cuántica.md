@@ -4,8 +4,6 @@
 
 [[Compuertas cuánticas]]
 
-[[Quantum algorithms]]
-
 [[Fidelidad]]
 
 [[Purification]]

@@ -1,4 +1,4 @@
-Dos [[Grafo|grafos]] $G_1 = (V_1, E_1)$ y $G_2 = (V_2, E_2)$ se dicen que son _isomorfos_ si existe una biyección (_isomorfismo_) $f: V_1 \rightarrow V_2$ tal que 
+Dos [[Grafo|grafos]] $G_1 = (V_1, E_1)$ y $G_2 = (V_2, E_2)$ se dicen que son _isomorfos_ si existe una biyección (a la que llamamos, _isomorfismo_) $f: V_1 \rightarrow V_2$ tal que 
 $$
 \{u, v\} \in E_1 \Leftrightarrow \{f(u), f(v)\} \in E_2,
 $$

@@ -6,7 +6,7 @@ f we have an original basis $\{ \ket{e_1}, \ket{e_2}, \ldots, \ket{e_n} \}$ for 
 
 The equation $B = P^{-1}AP$ fundamentally represents a change of bases in the context of linear transformations or operators, where $A$ and $B$ are matrices representing the same linear operator in different bases, and $P$ is the change of basis matrix.
 
-Sea $A:V \rightarrow V$ un operador sobre un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$, con [[Producto interno]] $\langle \cdot | \cdot \rangle : V \times V \rightarrow \mathbb{F}$, y sean $A'$, $A''$ dos [[Representación de operadores lineales con matrices|representaciones matriciales]] para $A$, respectivamente sobre las [[Base y dimensión|bases]] [[Ortogonalidad y Ortonormalidad|ortonormales]] $\{\ket{v_i} \}_{i=1}^n$ y $\{\ket{w_i} \}_{i=1}^n$. Entonces los elementos de matriz de $A'$ y $A''$ son respectivamente $A_{ij}' = \braket{v_i|A|v_j}$ y $A_{ij}'' = \braket{w_i|A|w_j}$. %%Caracterizar la relacion entre A' y A''%% 
+Sea $A:V \rightarrow V$ un operador sobre un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$, con [[Producto interno]] $\langle \cdot | \cdot \rangle : V \times V \rightarrow \mathbb{F}$, y sean $A'$, $A''$ dos [[Representación de operadores lineales con matrices|representaciones matriciales]] para $A$, respectivamente sobre las [[Base y dimensión|bases]] [[Ortogonalidad y Ortonormalidad|ortonormales]] $\{\ket{v_i} \}_{i=1}^n$ y $\{\ket{w_i} \}_{i=1}^n$. Entonces los elementos de matriz de $A'$ y $A''$ son respectivamente $A_{ij}' = \braket{v_i|A|v_j}$ y $A_{ij}'' = \braket{w_i|A|w_j}$. %%Caracterizar la relacion entre A' y A''%% 
 
 %%Nielsen Chuang%%
 

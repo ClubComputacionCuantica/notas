@@ -1,4 +1,4 @@
-Un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$ en un [[Espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$, equipado con un [[producto interno]], se dice que es _positivo_ si para todo vector $\ket{v} \in V$, se cumple que $(\ket{v},A\ket{v})$ es real y no negativo, i.e.
+Un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$ en un [[espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$, equipado con un [[producto interno]], se dice que es _positivo_ si para todo vector $\ket{v} \in V$, se cumple que $(\ket{v},A\ket{v})$ es real y no negativo, i.e.
 $$
 \braket{v|A|v}\equiv(\ket{v},A\ket{v})≥0
 $$

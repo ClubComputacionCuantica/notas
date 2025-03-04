@@ -1,4 +1,4 @@
-Un _subespacio_ de un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es un subconjunto $W$ de $V$ que es en sí mismo un espacio vectorial bajo las operaciones de suma de vectores y multiplicación por escalares definidas en $V$.
+Un _subespacio_ de un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es un subconjunto $W$ de $V$ que es en sí mismo un espacio vectorial bajo las operaciones de suma de vectores y multiplicación por escalares definidas en $V$.
 
 De hecho, se verifica que:
 

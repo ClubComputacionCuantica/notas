@@ -1,4 +1,4 @@
-Sean $G$ un [[grupo]], $X$ un conjunto y $\ast : G \times X \rightarrow X$ una [[acción de grupo]].
+Sean $G$ un [[grupo]], $X$ un conjunto y $\ast : G \times X \rightarrow X$ una [[Acción de grupo]].
 Para cada $x\in X$ se define el _estabilizador de_ $x$ _por_ $G$ como
 $$
 Stab(x):=\{g\in G | g\ast x = x\}

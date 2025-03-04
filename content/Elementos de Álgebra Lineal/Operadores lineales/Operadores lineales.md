@@ -1,4 +1,4 @@
-Un _operador lineal_ entre dos [[Espacio vectorial|espacios vectoriales]] $V$ y $W$ sobre el mismo campo $\mathbb{F}$ es una función $A: V \rightarrow W$ que satisface las siguientes dos propiedades para todos los vectores $\ket{u}, \ket{v} \in V$ y para todo escalar $a \in \mathbb{F}$:
+Un _operador lineal_ entre dos [[espacio vectorial|espacios vectoriales]] $V$ y $W$ sobre el mismo campo $\mathbb{F}$ es una función $A: V \rightarrow W$ que satisface las siguientes dos propiedades para todos los vectores $\ket{u}, \ket{v} \in V$ y para todo escalar $a \in \mathbb{F}$:
 
 1. **Aditividad**: $A(\ket{u} + \ket{v}) = A(\ket{u}) + A(\ket{v})$.
 2. **Homogeneidad**: $A(a\ket{u}) = a A(\ket{u})$.

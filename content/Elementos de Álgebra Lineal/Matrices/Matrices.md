@@ -12,4 +12,4 @@ Se pueden definir las siguientes operaciones con matrices:
     
 2. **Producto por un Escalar**: Dada una matriz $A$ de dimensión $m \times n$ y un escalar $b \in \mathbb{F}$, el producto $b A$ es una matriz de dimensión $m \times n$ donde cada elemento $(b A)_{ij}$ es $b a_{ij}$.
 
-Resulta que el conjunto de todas las matrices de tamaño $m \times n$ con entradas en el campo de los números complejos $\mathbb{C}$, denotado como $\mathbb{C}^{m \times n}$, forma un [[Espacio vectorial]] sobre $\mathbb{C}$ con las operaciones de suma y producto por escalar mencionadas.
+Resulta que el conjunto de todas las matrices de tamaño $m \times n$ con entradas en el campo de los números complejos $\mathbb{C}$, denotado como $\mathbb{C}^{m \times n}$, forma un [[espacio vectorial]] sobre $\mathbb{C}$ con las operaciones de suma y producto por escalar mencionadas.

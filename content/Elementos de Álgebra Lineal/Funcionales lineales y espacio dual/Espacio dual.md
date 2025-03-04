@@ -1,4 +1,4 @@
-Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$. El espacio dual de $V$, denotado como $V^*$, es el conjunto de todos los [[funcionales lineales]] de $V$ a $\mathbb{F}$. Es decir, $V^*$ es un espacio vectorial cuyos elementos son todas las funciones $f: V \rightarrow \mathbb{F}$ que son lineales. Esto significa que para cada $f \in V^*$ y para todos los $\mathbf{u}, \mathbf{v} \in V$ y $a \in \mathbb{F}$, se tiene:
+Sea $V$ un [[espacio vectorial]] sobre un campo $\mathbb{F}$. El espacio dual de $V$, denotado como $V^*$, es el conjunto de todos los [[funcionales lineales]] de $V$ a $\mathbb{F}$. Es decir, $V^*$ es un espacio vectorial cuyos elementos son todas las funciones $f: V \rightarrow \mathbb{F}$ que son lineales. Esto significa que para cada $f \in V^*$ y para todos los $\mathbf{u}, \mathbf{v} \in V$ y $a \in \mathbb{F}$, se tiene:
 
 1. $f(\mathbf{u} + \mathbf{v}) = f(\mathbf{u}) + f(\mathbf{v})$ (Aditividad).
 2. $f(a\mathbf{v}) = af(\mathbf{v})$ (Homogeneidad).

@@ -1,4 +1,4 @@
-[[Espacio vectorial]]
+[[espacio vectorial]]
 	[[Subespacios]]
 [[Combinaciones lineales e independencia lineal]]
 [[Subespacio generado por un conjunto de vectores]]

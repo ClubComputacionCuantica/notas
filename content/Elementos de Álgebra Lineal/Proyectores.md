@@ -1,4 +1,4 @@
-Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$ con [[Base y dimensión|dimensión]] finita $n$, y sea $W$ un [[Subespacios|subespacio]] de $V$ de dimensión $k$. Consideremos una [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] $\{\ket{1}, \ket{2}, ..., \ket{n}\}$ de $V$, de tal manera que los primeros $k$ vectores $\{\ket{1}, \ket{2}, ..., \ket{k}\}$ forman una base para $W$. 
+Sea $V$ un [[espacio vectorial]] sobre un campo $\mathbb{F}$ con [[Base y dimensión|dimensión]] finita $n$, y sea $W$ un [[Subespacios|subespacio]] de $V$ de dimensión $k$. Consideremos una [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] $\{\ket{1}, \ket{2}, ..., \ket{n}\}$ de $V$, de tal manera que los primeros $k$ vectores $\{\ket{1}, \ket{2}, ..., \ket{k}\}$ forman una base para $W$. 
 
 Un _proyector_ $P : V \rightarrow V$ es un [[Operadores lineales|operador lineal]] que satisface las siguientes propiedades:
 1. **Idempotencia:** $P^2 = P$.

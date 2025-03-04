@@ -1,4 +1,4 @@
-Considérese el caso en el que el [[predictor]] es una función. 
+Considérese el caso en el que el [[Predictor]] es una función. 
 Dados $N$ ejemplos $\mathbf{x}_n\in\mathbb{R}^D$ con correspondientes etiquetas escalares $y_n\in\mathbb{R}$, y considere una configuración de aprendizaje supervisado, donde obtenemos pares $(\mathbf{x}_1,y_1),...,(\mathbf{x}_N,y_N)$.
 Dados estos datos, nos gustaría estimar un predictor $$f(\cdot,\mathbf{\theta}):\mathbb{R}^D \rightarrow \mathbb{R}$$ parametrizado por $\mathbf{\theta}$. Buscamos encontrar un buen parámetro $\mathbf{\theta}^*$ tal que se ajuste bien a los datos, esto es, $$f(\mathbf{x}_n,\mathbf{\theta}^*)\approx y_n,\hspace{12pt}\forall n\in\{1,...,N\}.$$ A continuación usamos la notación $\hat{y}_n = f(\mathbf{x_n},\mathbf{\theta}^*)$ para representar la salida del predictor.
 #### Ejemplo

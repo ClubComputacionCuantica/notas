@@ -1,4 +1,4 @@
-Sea $A: V \rightarrow V$ un [[Operadores lineales|operador lineal]] sobre un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$. Un _eigenvalor_ de $A$ es un escalar $\lambda \in \mathbb{F}$ para el cual existe al menos un vector no nulo $\ket{v} \in V$ tal que
+Sea $A: V \rightarrow V$ un [[Operadores lineales|operador lineal]] sobre un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$. Un _eigenvalor_ de $A$ es un escalar $\lambda \in \mathbb{F}$ para el cual existe al menos un vector no nulo $\ket{v} \in V$ tal que
 $$
 A\ket{v} = \lambda\ket{v}.
 $$

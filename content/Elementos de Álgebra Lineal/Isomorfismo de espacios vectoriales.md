@@ -1,4 +1,4 @@
-Un _isomorfismo_ entre $V$ y $W$ [[Espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$ es una función $T:V\rightarrow W$ tal que es [[Función lineal|lineal]] y [[Función biyectiva|biyectiva]].
+Un _isomorfismo_ entre $V$ y $W$ [[espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$ es una función $T:V\rightarrow W$ tal que es [[Función lineal|lineal]] y [[Función biyectiva|biyectiva]].
 
 Si existe tal función se dice que los espacios $V$ y $W$ son _isomorfos_, denotado por $V≅W$. (Véase [[Condiciones para la existencia de un isomorfismo]])
 
