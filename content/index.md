@@ -1,7 +1,7 @@
 ---
 title: Bienvenid@ a las notas del Club de Computación Cuántica
 ---
-Aquí encontrarás una colección de notas interconectadas sobre los fundamentos de la computación cuántica y otros conceptos clave. El sitio está en construcción, pero ya puedes explorar algunos temas esenciales.
+Aquí encontrarás una colección de notas interconectadas sobre los fundamentos de la computación cuántica y otros conceptos clave. 🚧 **El sitio está en construcción** 🚧, pero ya puedes explorar algunos temas esenciales.[^1]
 
 La sección más completa hasta ahora es la de **[[Elementos de Álgebra Lineal|álgebra lineal]]**, que sienta las bases matemáticas para la computación cuántica. Seguiremos ampliando y refinando el contenido con el tiempo.
 
@@ -42,3 +42,5 @@ Gracias por visitar. ¡Explora y aprende!
 [[Elementos de Teoría de Grafos]]
 
 [[Elementos de Teoría de Grupos]]
+
+[^1]: Esto era un proyecto personal que decidí compartir abiertamente con la comunidad, por lo cual hay muchas notas personales y elementos sin revisar. Espero pronto pueda crecer y mejorar en calidad, y que pueda ser útil para muchos compañeros. -[[Colaboradores#Rob Navarro|Rob Navarro]]
