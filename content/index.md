@@ -16,21 +16,29 @@ Gracias por visitar. ¡Explora y aprende!
 [[Elementos de Algebra Lineal]]
 
 [[Elementos de Mecánica Clásica]]
+
 [[Elementos de Mecánica Cuántica]]
 
 [[Elementos de Información Clásica]]
+
 [[Elementos de Información Cuántica]]
 
 [[Elementos de Computación Clásica]]
+
 [[Elementos de Computación Cuántica]]
 
 [[Elementos de Aprendizaje de Máquina Clásico]]
+
 [[Elementos de Aprendizaje de Máquina Cuántico]]
 
 [[Elementos de Redes de Comunicación Clásica]]
+
 [[Elementos de Redes de Comunicación Cuántica]]
 
 [[Elementos Adicionales]]
+
 [[Elementos de Probabilidad]]
+
 [[Elementos de Teoría de Grafos]]
+
 [[Elementos de Teoría de Grupos]]
