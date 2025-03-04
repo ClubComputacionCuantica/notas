@@ -43,4 +43,4 @@ Gracias por visitar. ¡Explora y aprende!
 
 [[Elementos de Teoría de Grupos]]
 
-[^1]: Esto era un proyecto personal que decidí compartir abiertamente con la comunidad, por lo cual hay muchas notas personales y elementos sin revisar. Espero pronto pueda crecer y mejorar en calidad, y que pueda ser útil para muchos compañeros. -[[Colaboradores#Rob Navarro|Rob Navarro]]
+[^1]: Esto era un proyecto personal que decidí compartir abiertamente con la comunidad, por lo cual hay muchas notas propias y elementos sin revisar. Espero pronto pueda crecer y mejorar en calidad, y que pueda ser útil para muchos compañeros. -[[Colaboradores#Rob Navarro|Rob Navarro]]
