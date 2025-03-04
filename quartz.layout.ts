@@ -58,7 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
         fontSize: 0.4,
         opacityScale: 1,
         removeTags: ["#pendiente"], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        showTags: false, // whether to show tags in the graph
         enableRadial: true, // whether to constrain the graph, similar to Obsidian
       },
     }),
