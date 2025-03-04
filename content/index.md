@@ -11,7 +11,7 @@ La sección más completa hasta ahora es la de **[[Elementos de Álgebra Lineal|
 
 Gracias por visitar. ¡Explora y aprende!
 
-**Elementos**
+## Elementos
 
 [[Elementos de Álgebra Lineal]]
 
