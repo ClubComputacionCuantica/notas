@@ -40,12 +40,12 @@ export const defaultContentPageLayout: PageLayout = {
         scale: 1.0, // default view scale
         repelForce: 0.6, // how much nodes should repel each other
         centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 20, // how long should the links be by default?
-        fontSize: 0.6, // what size should the node labels be?
+        linkDistance: 30, // how long should the links be by default?
+        fontSize: 0.5, // what size should the node labels be?
         opacityScale: 1, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
-        enableRadial: false, // whether to constrain the graph, similar to Obsidian
+        enableRadial: true, // whether to constrain the graph, similar to Obsidian
       },
       globalGraph: {
         drag: true,
@@ -54,8 +54,8 @@ export const defaultContentPageLayout: PageLayout = {
         scale: 0.9,
         repelForce: 0.3,
         centerForce: 0.3,
-        linkDistance: 45,
-        fontSize: 0.4,
+        linkDistance: 65,
+        fontSize: 0.3,
         opacityScale: 1,
         removeTags: [], // what tags to remove from the graph
         showTags: false, // whether to show tags in the graph
