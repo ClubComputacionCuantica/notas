@@ -5,15 +5,15 @@ Aquí encontrarás una colección de notas interconectadas sobre los fundamentos
 
 La sección más completa hasta ahora es la de **[[Elementos de Álgebra Lineal|álgebra lineal]]**, que sienta las bases matemáticas para la computación cuántica. Seguiremos ampliando y refinando el contenido con el tiempo.
 
-**[[Contribuidores]]** – Las personas que han aportado al desarrollo de este sitio.
+**[[Colaboradores]]** – Las personas que han aportado al desarrollo de este sitio.
 
-🔹 **[[¿Cómo contribuir?]]** - Si quieres ayudar a mejorar las notas, aquí encontrarás cómo hacerlo.
+🔹 **[[¿Cómo colaborar?]]** - Si quieres ayudar a mejorar las notas, aquí encontrarás cómo hacerlo.
 
 Gracias por visitar. ¡Explora y aprende!
 
 **Elementos**
 
-[[Elementos de Algebra Lineal]]
+[[Elementos de Álgebra Lineal]]
 
 [[Elementos de Mecánica Clásica]]
 
