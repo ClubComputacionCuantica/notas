@@ -3,7 +3,7 @@ title: Bienvenid@ a las notas del Club de Computación Cuántica
 ---
 Aquí encontrarás una colección de notas interconectadas sobre los fundamentos de la computación cuántica y otros conceptos clave. El sitio está en construcción, pero ya puedes explorar algunos temas esenciales.
 
-La sección más completa hasta ahora es la de **[álgebra lineal](Elementos de Álgebra Lineal)**, que sienta las bases matemáticas para la computación cuántica. Seguiremos ampliando y refinando el contenido con el tiempo.
+La sección más completa hasta ahora es la de **[[Elementos de Álgebra Lineal|álgebra lineal]]**, que sienta las bases matemáticas para la computación cuántica. Seguiremos ampliando y refinando el contenido con el tiempo.
 
 **[[Contribuidores]]** – Las personas que han aportado al desarrollo de este sitio.
 
