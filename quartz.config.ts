@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Club de Computación Cuántica",
+    pageTitle: "Notas del Club de Computación Cuántica",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "es-ES",
-    baseUrl: "clubcomputacioncuantica.github.io",
+    baseUrl: "clubcomputacioncuantica.github.io/notas",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
