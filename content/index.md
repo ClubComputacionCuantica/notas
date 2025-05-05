@@ -1,46 +1,14 @@
----
 title: Bienvenid@ a las notas del Club de Computación Cuántica
 ---
-Aquí encontrarás una colección de notas interconectadas sobre los fundamentos de la computación cuántica y otros conceptos clave. 🚧 **El sitio está en construcción** 🚧, pero ya puedes explorar algunos temas esenciales.[^1]
 
-La sección más completa hasta ahora es la de **[[Elementos de Álgebra Lineal|álgebra lineal]]**, que sienta las bases matemáticas para la computación cuántica. Seguiremos ampliando y refinando el contenido con el tiempo.
+Aquí encontrarás una colección de **notas interconectadas** sobre los fundamentos de la computación cuántica y otros conceptos clave. 
+
+🚧 *El sitio está en construcción* 🚧
+
+La sección disponible ahora es la de **[[Elementos de Álgebra Lineal]]** (¡recuerda que usamos [[notación Bra-Ket]]!).
 
 **[[Colaboradores]]** – Las personas que han aportado al desarrollo de este sitio.
 
 🔹 **[[¿Cómo colaborar?]]** - Si quieres ayudar a mejorar las notas, aquí encontrarás cómo hacerlo.
 
 Gracias por visitar. ¡Explora y aprende!
-
-## Elementos
-
-[[Elementos de Álgebra Lineal]]
-
-[[Elementos de Mecánica Clásica]]
-
-[[Elementos de Mecánica Cuántica]]
-
-[[Elementos de Información Clásica]]
-
-[[Elementos de Información Cuántica]]
-
-[[Elementos de Computación Clásica]]
-
-[[Elementos de Computación Cuántica]]
-
-[[Elementos de Aprendizaje de Máquina Clásico]]
-
-[[Elementos de Aprendizaje de Máquina Cuántico]]
-
-[[Elementos de Redes de Comunicación Clásica]]
-
-[[Elementos de Redes de Comunicación Cuántica]]
-
-[[Elementos Adicionales]]
-
-[[Elementos de Probabilidad]]
-
-[[Elementos de Teoría de Grafos]]
-
-[[Elementos de Teoría de Grupos]]
-
-[^1]: Esto era un proyecto personal que decidí compartir abiertamente con la comunidad, por lo cual hay muchas notas propias y elementos sin revisar. Espero pronto pueda crecer y mejorar en calidad, y que pueda ser útil para muchos compañeros. -[[Colaboradores#Rob Navarro|Rob Navarro]]

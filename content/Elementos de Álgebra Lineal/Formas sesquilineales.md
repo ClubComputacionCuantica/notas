@@ -1,3 +1,0 @@
-[[Formas multilineales]]
-
-#pendiente 

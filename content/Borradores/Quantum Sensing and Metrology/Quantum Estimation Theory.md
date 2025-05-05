@@ -1,0 +1,180 @@
+-Gerardo Adesso
+![[Pasted image 20250325054801.png]]
+### **Quantum discrimination**
+Trace distance: 
+$$d_{Tr}(\rho, \sigma) = \frac{1}{2}||\rho-\sigma||_1$$
+![[Pasted image 20250325032106.png]]
+
+Bures distance:
+$$d^2_B(\rho,\sigma)=2(1-\sqrt{F_B(\rho,\sigma)})$$
+$$F_B(\rho,\sigma)=(Tr[\sqrt{\sqrt{\rho}\sigma\sqrt{\rho}})^2$$
+
+![[Pasted image 20250325031238.png]]
+$P_0 + P_1 =1$, POVM: $M=\{\Pi_0,\Pi_1\}, \Pi_0+\Pi_1=I$
+
+Probability of guessing the correct result: 
+$P_{success} = P_0 Tr[\rho_0 \Pi_0]+P_1Tr[\rho_1 \Pi_1]$
+$=P_0 Tr[\rho_0 \Pi_0]+P_1Tr[\rho_1 I]-P_1Tr[\rho_1 \Pi_0]$
+$=P_1 + Tr[(P_0\rho_0-P_1\rho_1)\Pi_0]$
+
+We want to find the most informative measurement to maximize $P_{success}$
+
+The optimal $\Pi_0$ is the projection on positive eigenspace of $P_0\rho_0-P_1\rho_1$
+Helstrom - 1976
+
+Optimal binary discrimination:
+$max_{\{\Pi_0\}}P_{success} = \frac{1}{2}(1+||P_0\rho_0-P_1\rho_1||_1)$
+
+e.g. $P_0=P_1=\frac{1}{2}$
+$max_{\{\Pi_0\}}P_{success} = \frac{1}{2}(1+d_{Tr}(\rho_0,\rho_1))$
+
+**Multiple discrimination**
+![[Pasted image 20250325032452.png]]
+With unitary $U_j =\exp(-i\theta_j H)$
+$\theta_j$ represents some angle of rotation and $H$ over which axis we're rotating.
+Each rotation occurs with prob. $P_j$
+
+Over $k$ chances
+$P_{success}= \sum_{j=1}^k P_j Tr[\rho_j\Pi_j]$; $\rho_j=U_j \rho_0 U_j^{\dagger}$
+
+Example $H=\sigma_z$
+![[Pasted image 20250325033042.png]]
+For this case for $H$ say the state $\ket{0}\bra{0}$ useless since this transformation doesn't do anything to the measurement. We could use the state with maximum coherence $\ket{+}\bra{+}$
+![[Pasted image 20250325033237.png]]
+We can prove our state by rotating.
+![[Pasted image 20250325033353.png]]
+What if we make these choices for rotated output very close to each other.
+![[Pasted image 20250325033435.png]]
+Local estimation theory
+
+### **Classical to quantum estimation**
+![[Pasted image 20250325033837.png]]
+$\theta$ is some parameter
+![[Pasted image 20250325033854.png]]
+![[Pasted image 20250325033951.png]]
+Where $I(P_\theta)= \langle L^2_\theta\rangle$, $L_\theta = \frac{d(\log P_\theta)}{d\theta}=\frac{1}{P_\theta}\frac{d P_\theta}{d\theta}$ is the Fisher information.
+Sensitivity of the probabilities to change in the parameter $\theta$
+
+Quantum (local) estimation theory
+![[Pasted image 20250325034438.png]]
+Information on the parameter is printed by this black box $\Gamma_\theta$, (but this step might be optional)
+
+The probability distribution is obtained by measurement of $\rho_\theta$:
+$P_\theta (x)=Tr[\rho_\theta \Pi_x]$
+
+The corresponding estimator has variance:
+$\Delta^2\tilde{\theta}\geq\frac{1}{I(\rho_{\theta}^\Pi)}\geq \frac{1}{QFI(\rho_\theta)}$ QUANTUM C.R.B. 
+0:
+
+What is the maximum information that a quantum state $\rho_\theta$ carries about the parameter $\theta$?
+If we optimize $\{\Pi_x\}$, defining quantum Fisher information:
+$QFI (\rho_\theta)=sup_{\{\Pi_x\}}I(\rho_{\theta}^\Pi)$
+Note that $I(\rho_\theta^\Pi)\leq QFI(\rho_\theta)$
+
+#### **How can we calculate QFI?**
+![[Pasted image 20250325035445.png]]
+
+With $\{\ket{e_j}\}$ eigenbasis for $\Lambda_\theta$
+
+![[Pasted image 20250325035829.png]]
+![[Pasted image 20250325035930.png]]
+
+So
+$QFI(\rho_\theta)=\sum_{j,k}=\frac{2|\bra{e_j}\frac{d \rho_\theta}{d\theta}\ket{e_k}}{P_j+P_k}$
+
+Measurements that saturate the limit
+![[Pasted image 20250325040435.png]]
+These aren't always able to measure in the lab.
+
+For pure states, we can find 
+![[Pasted image 20250325042754.png]]
+Where $\ket{\dot{\psi_\theta}}=\frac{d\ket{\psi_\theta}}{d\theta}$ 
+
+For a state of the form
+![[Pasted image 20250325042916.png]]
+$\ket{\psi_\theta}=e^{-i\theta H}\ket{\psi_0}$
+$\ket{\dot{\psi_\theta}}=\frac{d\ket{\psi_\theta}}{d\theta}=-i H \ket{\psi_\theta}$ 
+$QFI(\ket{\psi_\theta})=4(\Delta^2 H)_{\ket{\psi_\theta}}=4\langle \psi_\theta | (H-\langle H \rangle)^2|\psi_\theta\rangle$
+
+For a combined state
+$QFI (\rho_\theta^{\otimes n})= n QFI(\rho_\theta)$
+
+---
+Is there a relation between the information encoded in the state and the rate of change of the parameter?
+![[Pasted image 20250325043629.png]]
+Series expansion:
+$F_B (\rho_\theta,\rho_{\theta+d\theta}) \approx 1 - \frac{1}{4}QFI(\rho_\theta)d\theta^2 + \dots$
+
+One can also derive
+
+$QFI(\rho_\theta)=-4 \lim_{h\rightarrow 0} \frac{\delta^2\sqrt{F_B(\rho_\theta,\rho_{\theta+h})}}{\delta h^2}.$ 
+
+In the case where variation of parameters does not change the fidelity then QFI is zero, the state carries no information on the parameter.
+We want QFI as big as possible, corresponding to a good probe.
+
+Performance of thermometers can be measured by QFI
+
+### Multiparameter estimation
+![[Pasted image 20250325044748.png]]
+We could have non-commuting parameters (!)
+
+$(cov(\vec{\theta}))_{}...$
+
+Multiparametrer Quantum CR Bound
+Not guaranteed to be saturable
+![[Pasted image 20250325045038.png]]![[Pasted image 20250325045102.png]]
+
+![[Pasted image 20250325045203.png]]
+
+Compatibility condition:
+![[Pasted image 20250325045422.png]]
+If these parameters are generated by Hamiltonians that commute, I know that there's a common eigenbasis that diagonalize, so we can measure in this basis.
+
+### Heisenberg scaling
+![[Pasted image 20250325045952.png]]
+$H = \frac{\sigma_z}{2}$ , $U_\theta = e^{-i\theta\frac{\sigma_z}{2}}$: $\ket{\psi_\theta}=\ket{+}$
+![[Pasted image 20250325050055.png]]
+So $QFI = 4 (\Delta^2 H)_{\ket{+}} = 4 \frac{1}{4} - 0 = 1$.
+Repeating the experiment $n$ times,
+![[Pasted image 20250325050305.png]]
+![[Pasted image 20250325050824.png]]
+
+We can use entangled states:
+![[Pasted image 20250325050638.png]]![[Pasted image 20250325050810.png]]
+
+Or do sequential operations:
+![[Pasted image 20250325051139.png]]
+![[Pasted image 20250325051254.png]]
+
+The two fundamental quantum resources, entanglement and coherence achieve the Heisenberg limit.
+
+#### Example: realistic setting
+![[Pasted image 20250325051903.png]]
+![[Pasted image 20250325052108.png]]
+Repeat the block $n$ times.
+![[Pasted image 20250325052237.png]]![[Pasted image 20250325052310.png]]
+![[Pasted image 20250325052419.png]]
+(This is affecting coherence terms)
+
+After $n$ times:
+![[Pasted image 20250325052604.png]]
+(Estimating signal and noise makes sense with QEC)
+
+Then
+![[Pasted image 20250325053045.png]]
+The compatibility condition does verify:
+![[Pasted image 20250325052952.png]]
+
+So the plot for QFI looks like:
+![[Pasted image 20250325053228.png]]
+There's an extra optimization, $n_{opt}$ for getting the maximum QFI
+
+QEC case
+![[Pasted image 20250325053626.png]]
+
+#### Other examples: Mach Zehnder interferometer, LIGO
+
+O.g. problem. E.g. quantum limit would be proportional to number of photons
+![[Pasted image 20250325054338.png]]
+![[Pasted image 20250325054246.png]]
+![[Pasted image 20250325054523.png]]
