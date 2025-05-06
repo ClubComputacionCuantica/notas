@@ -1,4 +1,4 @@
-Un _espacio vectorial_ $V$ sobre un campo $\mathbb{F}$ es un conjunto equipado con dos operaciones:
+Un _espacio vectorial_ $V$ sobre un campo $\mathbb{F}$ es un conjunto, cuyos elementos llamamos _vectores_, equipado con dos operaciones:
 
 1. **Suma de vectores** $+: V \times V \to V$
 2. **Multiplicación por escalares** $\cdot: \mathbb{F} \times V \to V$

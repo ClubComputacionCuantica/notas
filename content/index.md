@@ -2,14 +2,12 @@
 title: Bienvenid@ a las notas del Club de Computación Cuántica
 ---
 
-Aquí encontrarás una colección de **notas interconectadas** sobre los fundamentos de la computación cuántica y otros conceptos clave. 
+Este sitio reúne una colección de **notas interconectadas** centradas en los elementos que sustentan y forman la computación cuántica.
 
-🚧 *El sitio está en construcción* 🚧
+El objetivo es construir una referencia que cubra un panorama amplio del área, desde los fundamentos hasta ideas más avanzadas presentes en ciencias cuánticas. Las notas no siguen una secuencia didáctica lineal, sino que las entradas están organizadas de forma modular y permiten explorar conexiones entre nociones clave del área.
 
-La sección disponible ahora es la de **[[Elementos de Álgebra Lineal]]** (¡recuerda que usamos [[Elementos-de-Álgebra-Lineal/Bra-Kets/Notación-Bra-Ket|notación Bra-Ket]]!).
+El proyecto está desarrollado con asistencia de inteligencia artificial, con un enfoque riguroso, claro y cuidadosamente redactado. Las entradas en estado de borrador funcionan únicamente como estructura o referencia cruzada, y serán completadas en futuras etapas del proyecto.
 
-**[[Colaboradores]]** – Las personas que han aportado al desarrollo de este sitio.
+La sección actualmente disponible es [[Elementos de Álgebra Lineal]], (Usamos notación Bra-Ket [[Elementos-de-Álgebra-Lineal/Bra-Kets/Notación-Bra-Ket|$\braket{\cdot|\cdot}$]])
 
-🔹 **[[¿Cómo colaborar?]]** - Si quieres ayudar a mejorar las notas, aquí encontrarás cómo hacerlo.
-
-Gracias por visitar. ¡Explora y aprende!
+→ Consulta [[Colaboradores]] para conocer a quienes han contribuido al desarrollo del contenido.
