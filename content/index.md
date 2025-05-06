@@ -6,7 +6,7 @@ Aquí encontrarás una colección de **notas interconectadas** sobre los fundame
 
 🚧 *El sitio está en construcción* 🚧
 
-La sección disponible ahora es la de **[[Elementos de Álgebra Lineal]]** (¡recuerda que usamos [[notación Bra-Ket]]!).
+La sección disponible ahora es la de **[[Elementos de Álgebra Lineal]]** (¡recuerda que usamos [[Elementos-de-Álgebra-Lineal/Bra-Kets/Notación-Bra-Ket|notación Bra-Ket]]!).
 
 **[[Colaboradores]]** – Las personas que han aportado al desarrollo de este sitio.
 
