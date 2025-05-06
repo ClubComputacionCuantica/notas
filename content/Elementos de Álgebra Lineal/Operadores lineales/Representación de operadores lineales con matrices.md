@@ -1,4 +1,4 @@
-Sea $A: V \rightarrow W$ un [[Operadores lineales|operador lineal]] entre dos [[Espacio vectorial|espacios vectoriales]] $V$ y $W$ de [[Base y dimensión|dimensiones]] finitas $n$ y $m$ respectivamente, sobre un mismo campo $\mathbb{F}$.
+Sea $A: V \rightarrow W$ un [[Operadores lineales|operador lineal]] entre dos [[espacio vectorial|espacios vectoriales]] $V$ y $W$ de [[Base y dimensión|dimensiones]] finitas $n$ y $m$ respectivamente, sobre un mismo campo $\mathbb{F}$.
 
 El operador $A$ puede representarse mediante una [[Matrices|matriz]] de tamaño $m \times n$, una vez se han fijado bases en $V$ y $W$. Sean $\{\ket{v_1}, \ldots, \ket{v_n}\}$ una base de $V$ y $\{\ket{w_1}, \ldots, \ket{w_m}\}$ una base de $W$. Entonces, para cada $j$ (con $1 \leq j \leq n$), se escribe:
 $$

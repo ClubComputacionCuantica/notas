@@ -1,4 +1,4 @@
-Un [[Operadores lineales|operador lineal]] $A: V \rightarrow V$ en un [[Espacio vectorial|espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ se dice que es _diagonal_ si existe una [[Base y dimensión|base]] $\{\ket{e_i}\}_{i=1}^n$ de $V$ tal que cada $\ket{e_i}$ es un [[Eigenvalores y eigenvectores|eigenvector]] de $A$.
+Un [[Operadores lineales|operador lineal]] $A: V \rightarrow V$ en un [[espacio vectorial|espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ se dice que es _diagonal_ si existe una [[Base y dimensión|base]] $\{\ket{e_i}\}_{i=1}^n$ de $V$ tal que cada $\ket{e_i}$ es un [[Eigenvalores y eigenvectores|eigenvector]] de $A$.
 
 En otras palabras, $A$ es diagonal si actúa de forma escalar sobre los vectores de una base del espacio:
 $$

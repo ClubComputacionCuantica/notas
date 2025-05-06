@@ -1,4 +1,4 @@
-Una _forma multilineal_ es una función que toma varios vectores de uno o más [[Espacio vectorial|espacios vectoriales]] y devuelve un escalar, siendo lineal en cada uno de sus argumentos por separado.
+Una _forma multilineal_ es una función que toma varios vectores de uno o más [[espacio vectorial|espacios vectoriales]] y devuelve un escalar, siendo lineal en cada uno de sus argumentos por separado.
 
 Sea $V_1, \dots, V_k$ espacios vectoriales sobre un mismo campo $\mathbb{F}$, una aplicación:
 $$

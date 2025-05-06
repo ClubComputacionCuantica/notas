@@ -1,4 +1,4 @@
-El proceso de _Ortogonalización de Gram-Schmidt_ es un método algorítmico que permite transformar cualquier [[Combinaciones lineales e independencia lineal|conjunto de vectores linealmente independientes]] en un conjunto [[Ortogonalidad y Ortonormalidad|ortogonal]] (u ortonormal si se normalizan los vectores resultantes) en el mismo [[Espacio vectorial|espacio vectorial]].
+El proceso de _Ortogonalización de Gram-Schmidt_ es un método algorítmico que permite transformar cualquier [[Combinaciones lineales e independencia lineal|conjunto de vectores linealmente independientes]] en un conjunto [[Ortogonalidad y Ortonormalidad|ortogonal]] (u ortonormal si se normalizan los vectores resultantes) en el mismo [[espacio vectorial|espacio vectorial]].
 
 Sea $V$ un espacio vectorial sobre $\mathbb{R}$ o $\mathbb{C}$, y sea $\langle \cdot | \cdot \rangle$ un [[Producto interno|producto interno]] en $V$. Supongamos que $\{\ket{v_1}, \ket{v_2}, \ldots, \ket{v_n}\}$ es un conjunto de vectores linealmente independientes en $V$.
 

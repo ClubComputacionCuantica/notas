@@ -1,4 +1,4 @@
-La _notación bra-ket_, también conocida como _notación de Dirac_, es una forma elegante y compacta de representar [[Espacio vectorial|vectores]], [[Espacio dual|vectores duales]], y [[Producto interno|productos internos]] en mecánica cuántica. 
+La _notación bra-ket_, también conocida como _notación de Dirac_, es una forma elegante y compacta de representar [[espacio vectorial|vectores]], [[Espacio dual|vectores duales]], y [[Producto interno|productos internos]] en mecánica cuántica. 
 En este contexto, trabajamos con espacios de dimensión finita.
 
 Sea $V = \mathbb{C}^n$, el [[espacio vectorial]] complejo de [[Base y dimensión|dimensión]] $n$, dotado con el [[Producto interno|producto interno]] canónico:

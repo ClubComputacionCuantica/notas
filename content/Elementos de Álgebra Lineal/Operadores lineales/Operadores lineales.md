@@ -34,7 +34,7 @@ $$
 
 Además, si $V = W$, el conjunto $\mathcal{L}(V, V)$ puede dotarse de una estructura de [[Álgebra|álgebra asociativa]] sobre $\mathbb{F}$, usando la composición de operadores:
 ## Producto de operadores lineales
-Sea $A: V \rightarrow W$ y $B: W \rightarrow U$ dos [[operadores lineales]], donde $V$, $W$ y $U$ son [[Espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$. El _producto_ o _composición_ de $A$ y $B$ es el operador:
+Sea $A: V \rightarrow W$ y $B: W \rightarrow U$ dos [[operadores lineales]], donde $V$, $W$ y $U$ son [[espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$. El _producto_ o _composición_ de $A$ y $B$ es el operador:
 $$
 BA: V \rightarrow U
 $$
