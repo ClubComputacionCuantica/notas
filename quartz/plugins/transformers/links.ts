@@ -26,9 +26,9 @@ interface Options {
 
 const defaultOptions: Options = {
   markdownLinkResolution: "relative",
-  prettyLinks: false,
+  prettyLinks: true,
   openLinksInNewTab: false,
-  lazyLoad: true,
+  lazyLoad: false,
   externalLinkIcon: true,
 }
 
