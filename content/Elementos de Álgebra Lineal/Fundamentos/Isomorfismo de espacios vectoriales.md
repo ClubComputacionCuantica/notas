@@ -1,4 +1,4 @@
-Un _isomorfismo_ entre $V$ y $W$, [[espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$, es una aplicación:
+Un _isomorfismo_ entre $V$ y $W$, [[Espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$, es una aplicación:
 $$
 T: V \to W
 $$

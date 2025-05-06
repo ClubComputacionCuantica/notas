@@ -1,4 +1,4 @@
-Sea $V$ un [[espacio vectorial]] de [[Base y dimensión|dimensión]] $n$ sobre un campo $\mathbb{F}$, y sean $\mathcal{B} = \{ \mathbf{v}_1, \ldots, \mathbf{v}_n \}$ y $\mathcal{B}' = \{ \mathbf{w}_1, \ldots, \mathbf{w}_n \}$ dos [[Base y dimensión|bases]] de $V$. Es posible convertir las coordenadas de un vector en una base $\mathcal{B}$ a sus coordenadas en otra base $\mathcal{B}'$.
+Sea $V$ un [[Espacio vectorial]] de [[Base y dimensión|dimensión]] $n$ sobre un campo $\mathbb{F}$, y sean $\mathcal{B} = \{ \mathbf{v}_1, \ldots, \mathbf{v}_n \}$ y $\mathcal{B}' = \{ \mathbf{w}_1, \ldots, \mathbf{w}_n \}$ dos [[Base y dimensión|bases]] de $V$. Es posible convertir las coordenadas de un vector en una base $\mathcal{B}$ a sus coordenadas en otra base $\mathcal{B}'$.
 ### Matriz de cambio de base
 Existe una [[Matrices|matriz invertible]] $P$ tal que, para cualquier vector $\mathbf{v} \in V$ con coordenadas $[v]_{\mathcal{B}}$ en la base $\mathcal{B}$ y $[v]_{\mathcal{B}'}$ en la base $\mathcal{B}'$, se cumple:
 $$

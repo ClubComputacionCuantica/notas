@@ -1,4 +1,4 @@
-Sea $V$ un [[espacio vectorial]] sobre un campo $\mathbb{F}$ con [[Base y dimensión|dimensión]] finita $n$, y sea $W$ un [[Subespacios|subespacio]] de $V$ de dimensión $k$. Supongamos que existe una [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] $\{\ket{1}, \ket{2}, ..., \ket{n}\}$ de $V$ tal que los primeros $k$ vectores $\{\ket{1}, ..., \ket{k}\}$ forman una base ortonormal de $W$.
+Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$ con [[Base y dimensión|dimensión]] finita $n$, y sea $W$ un [[Subespacios|subespacio]] de $V$ de dimensión $k$. Supongamos que existe una [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] $\{\ket{1}, \ket{2}, ..., \ket{n}\}$ de $V$ tal que los primeros $k$ vectores $\{\ket{1}, ..., \ket{k}\}$ forman una base ortonormal de $W$.
 
 Un _proyector ortogonal_ $P: V \rightarrow V$ es un [[Operadores lineales|operador lineal]] que cumple:
 1. **Idempotencia:** $P^2 = P$.

@@ -1,4 +1,4 @@
-El _operador identidad_, denotado como $I$ (o $I_V$ cuando se presente ambigüedad), en un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es un [[Operadores lineales|operador lineal]] $I: V \rightarrow V$ que satisface:
+El _operador identidad_, denotado como $I$ (o $I_V$ cuando se presente ambigüedad), en un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es un [[Operadores lineales|operador lineal]] $I: V \rightarrow V$ que satisface:
 $$
 I\ket{v} = \ket{v}
 $$

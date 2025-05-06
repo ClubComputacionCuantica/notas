@@ -45,6 +45,6 @@ donde $a_{ij} \in \mathbb{F}$ es el elemento en la fila $i$ y columna $j$.
    (A^{\dagger})_{ij} = \overline{a_{ji}}
    $$
 ### Estructura algebraica
-- El conjunto de todas las matrices $m \times n$ con entradas en $\mathbb{F}$, denotado $\mathbb{F}^{m \times n}$, forma un [[espacio vectorial]] sobre $\mathbb{F}$ bajo las operaciones de suma y producto por escalar.
+- El conjunto de todas las matrices $m \times n$ con entradas en $\mathbb{F}$, denotado $\mathbb{F}^{m \times n}$, forma un [[Espacio vectorial]] sobre $\mathbb{F}$ bajo las operaciones de suma y producto por escalar.
 
 #algebra-lineal 

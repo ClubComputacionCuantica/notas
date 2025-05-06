@@ -1,4 +1,4 @@
-El _espectro_ de un [[Operadores lineales|operador lineal]] $A: V \rightarrow V$, donde $V$ es un [[espacio vectorial]] sobre un campo $\mathbb{F}$, se refiere al conjunto de todos los [[Eigenvalores y eigenvectores|eigenvalores]] de $A$.
+El _espectro_ de un [[Operadores lineales|operador lineal]] $A: V \rightarrow V$, donde $V$ es un [[Espacio vectorial]] sobre un campo $\mathbb{F}$, se refiere al conjunto de todos los [[Eigenvalores y eigenvectores|eigenvalores]] de $A$.
 
 Dentro de este contexto, se pueden distinguir dos tipos de espectros según la [[multiplicidad]] de los eigenvalores: _degenerado_ y _no degenerado_.
 

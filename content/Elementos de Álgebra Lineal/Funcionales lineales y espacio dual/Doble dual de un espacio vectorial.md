@@ -1,4 +1,4 @@
-Sea $V$ un [[espacio vectorial]] sobre un campo $\mathbb{F}$. El _doble dual_ de $V$, denotado como $V^{**}$, se define como el [[Espacio dual|dual]] del espacio dual $V^*$:
+Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$. El _doble dual_ de $V$, denotado como $V^{**}$, se define como el [[Espacio dual|dual]] del espacio dual $V^*$:
 $$
 V^{**} := (V^*)^*.
 $$

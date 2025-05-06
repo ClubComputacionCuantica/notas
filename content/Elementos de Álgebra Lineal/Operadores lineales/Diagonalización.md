@@ -1,4 +1,4 @@
-Un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$ en un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ se dice que es _diagonalizable_ si existe una [[Base y dimensión|base]] $\{\ket{v_1}, \ldots, \ket{v_n}\}$ de $V$ formada por [[Eigenvalores y eigenvectores|eigenvectores]] de $A$.
+Un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$ en un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ se dice que es _diagonalizable_ si existe una [[Base y dimensión|base]] $\{\ket{v_1}, \ldots, \ket{v_n}\}$ de $V$ formada por [[Eigenvalores y eigenvectores|eigenvectores]] de $A$.
 
 Esto implica que $A$ es similar a una [[Operadores diagonales|matriz diagonal]], es decir, existe una matriz invertible $P$ tal que
 $$

@@ -1,4 +1,4 @@
-Dos vectores $\mathbf{u}$ y $\mathbf{v}$ en un [[espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$ se dicen _ortogonales_ si su [[producto interno]] es cero:
+Dos vectores $\mathbf{u}$ y $\mathbf{v}$ en un [[Espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$ se dicen _ortogonales_ si su [[producto interno]] es cero:
 $$
 \langle \mathbf{u} | \mathbf{v} \rangle = 0.
 $$

@@ -1,4 +1,4 @@
-Sea $V$ un [[espacio vectorial]] con [[producto interno]] definido, y sea $W \subseteq V$ un subespacio. El _complemento ortogonal_ de $W$, denotado por $W^\perp$, se define como:
+Sea $V$ un [[Espacio vectorial]] con [[producto interno]] definido, y sea $W \subseteq V$ un subespacio. El _complemento ortogonal_ de $W$, denotado por $W^\perp$, se define como:
 $$
 W^\perp = \{ \ket{v} \in V : \langle v | w \rangle = 0 \text{ para todo } \ket{w} \in W \}
 $$

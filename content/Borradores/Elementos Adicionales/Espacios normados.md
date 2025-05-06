@@ -1,4 +1,4 @@
-Un _espacio normado_ es un [[espacio vectorial|espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ (típicamente $\mathbb{R}$ o $\mathbb{C}$), dotado de una [[norma]]
+Un _espacio normado_ es un [[Espacio vectorial|Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ (típicamente $\mathbb{R}$ o $\mathbb{C}$), dotado de una [[norma]]
 $$
 \|\cdot\| : V \rightarrow \mathbb{R}.
 $$

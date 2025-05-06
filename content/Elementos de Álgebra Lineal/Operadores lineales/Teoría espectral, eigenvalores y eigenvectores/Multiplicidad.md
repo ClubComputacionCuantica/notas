@@ -1,4 +1,4 @@
-La _multiplicidad_ asociada a un [[Eigenvalores y eigenvectores|eigenvalor]] $\lambda$ de un operador lineal $A: V \rightarrow V$, con $V$ un [[espacio vectorial]] sobre un campo $\mathbb{F}$, se define en dos contextos principales: la _multiplicidad algebraica_ y la _multiplicidad geométrica_.
+La _multiplicidad_ asociada a un [[Eigenvalores y eigenvectores|eigenvalor]] $\lambda$ de un operador lineal $A: V \rightarrow V$, con $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$, se define en dos contextos principales: la _multiplicidad algebraica_ y la _multiplicidad geométrica_.
 ### Multiplicidad algebraica
 
 La _multiplicidad algebraica_ de un eigenvalor $\lambda$, denotada por $m_a(\lambda)$, se refiere al número de veces que $\lambda$ aparece como raíz del [[Eigenvalores y eigenvectores#Polinomio característico|polinomio característico]] de $A$. Si el polinomio característico de $A$ es $p(\lambda) = \det(A - \lambda I)$, entonces $m_a(\lambda)$ es el mayor entero $k$ tal que $(\lambda - \lambda_i)^k$ divide a $p(\lambda)$, donde $\lambda_i$ es una raíz del polinomio.

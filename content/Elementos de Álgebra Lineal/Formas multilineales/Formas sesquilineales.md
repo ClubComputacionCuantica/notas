@@ -1,6 +1,6 @@
 Una _forma sesquilineal_ es una generalización del concepto de [[Formas multilineales|forma bilineal]] para espacios vectoriales complejos. Es una aplicación que es conjugado‑lineal en el primer argumento y lineal en el segundo.
 
-Sea $V$ un [[espacio vectorial]] complejo. Una aplicación:
+Sea $V$ un [[Espacio vectorial]] complejo. Una aplicación:
 $$
 \varphi: V \times V \to \mathbb{C}
 $$

@@ -1,4 +1,4 @@
-La _traza_ de un [[Operadores lineales|operador lineal]] $A: V \rightarrow V$ en un [[espacio vectorial]] $V$ de dimensión finita sobre un campo $\mathbb{F}$ se define como la suma de los elementos diagonales de [[Representación de operadores lineales con matrices|la matriz que representa]] a $A$ en alguna base de $V$. Formalmente, si $\{ \ket{e_1}, \ket{e_2}, \ldots, \ket{e_n} \}$ es una [[Base y dimensión|base]] de $V$ y $A\ket{e_j} = \sum_{i=1}^{n} a_{ij} \ket{e_i}$, entonces la traza de $A$, denotada por $\text{Tr}(A)$, se define como como
+La _traza_ de un [[Operadores lineales|operador lineal]] $A: V \rightarrow V$ en un [[Espacio vectorial]] $V$ de dimensión finita sobre un campo $\mathbb{F}$ se define como la suma de los elementos diagonales de [[Representación de operadores lineales con matrices|la matriz que representa]] a $A$ en alguna base de $V$. Formalmente, si $\{ \ket{e_1}, \ket{e_2}, \ldots, \ket{e_n} \}$ es una [[Base y dimensión|base]] de $V$ y $A\ket{e_j} = \sum_{i=1}^{n} a_{ij} \ket{e_i}$, entonces la traza de $A$, denotada por $\text{Tr}(A)$, se define como como
 $$
 Tr(A)=\sum_i a_{ii}.
 $$

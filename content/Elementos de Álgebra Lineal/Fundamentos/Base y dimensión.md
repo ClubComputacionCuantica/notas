@@ -1,5 +1,5 @@
 ## Base de un espacio vectorial
-Una _base_ de un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es un conjunto de vectores en $V$, [[Combinaciones lineales e independencia lineal|linealmente independientes]] y que [[Subespacio generado por un conjunto de vectores|generan]] a $V$. 
+Una _base_ de un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es un conjunto de vectores en $V$, [[Combinaciones lineales e independencia lineal|linealmente independientes]] y que [[Subespacio generado por un conjunto de vectores|generan]] a $V$. 
 
 Formalmente, un conjunto $\mathcal{B} = \{\mathbf{v_1}, \mathbf{v_2}, \ldots, \mathbf{v_n}\}$ es una base de $V$ si y solo si:
 

@@ -1,4 +1,4 @@
-Un _funcional lineal_ en un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es una función:
+Un _funcional lineal_ en un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es una función:
 $$
 f: V \to \mathbb{F},
 $$

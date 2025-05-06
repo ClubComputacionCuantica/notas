@@ -1,4 +1,4 @@
-Un [[Operadores lineales|operador lineal]] $U : V \rightarrow V$ en un [[espacio vectorial]] $V$ con [[producto interno]] se dice que es _unitario_ si su [[Adjunto de un operador|adjunto]] $U^\dagger$ es también su [[Inverso de un operador lineal|inverso]], es decir, si satisface la siguiente condición:
+Un [[Operadores lineales|operador lineal]] $U : V \rightarrow V$ en un [[Espacio vectorial]] $V$ con [[producto interno]] se dice que es _unitario_ si su [[Adjunto de un operador|adjunto]] $U^\dagger$ es también su [[Inverso de un operador lineal|inverso]], es decir, si satisface la siguiente condición:
 $$
 U U^\dagger = U^\dagger U = I
 $$

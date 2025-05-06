@@ -1,4 +1,4 @@
-Un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$ en un [[espacio vectorial]] $V$ con [[producto interno]] se dice que es _normal_ si conmuta con su [[Adjunto de un operador|adjunto]], es decir, si satisface
+Un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$ en un [[Espacio vectorial]] $V$ con [[producto interno]] se dice que es _normal_ si conmuta con su [[Adjunto de un operador|adjunto]], es decir, si satisface
 $$
 AA^\dagger=A^\dagger A.
 $$

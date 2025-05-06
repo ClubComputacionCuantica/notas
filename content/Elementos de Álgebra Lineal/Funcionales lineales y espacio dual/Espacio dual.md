@@ -1,6 +1,6 @@
-Sea $V$ un [[espacio vectorial]] sobre un campo $\mathbb{F}$. El _espacio dual_ de $V$, denotado por $V^*$, es el conjunto de todas las funciones lineales $f: V \to \mathbb{F}$, llamadas [[Funcional lineal|funcionales lineales]].
+Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$. El _espacio dual_ de $V$, denotado por $V^*$, es el conjunto de todas las funciones lineales $f: V \to \mathbb{F}$, llamadas [[Funcional lineal|funcionales lineales]].
 
-El conjunto $V^*$ es un [[espacio vectorial]] bajo las operaciones definidas punto a punto:
+El conjunto $V^*$ es un [[Espacio vectorial]] bajo las operaciones definidas punto a punto:
 
 - Suma: $\ (f + g)(\mathbf{v}) := f(\mathbf{v}) + g(\mathbf{v})$,
 - Producto por escalar: $\ (a f)(\mathbf{v}) := a \cdot f(\mathbf{v})$,

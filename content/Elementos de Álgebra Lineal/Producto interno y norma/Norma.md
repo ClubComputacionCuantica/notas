@@ -1,4 +1,4 @@
-Una _norma_ en un [[espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es una función $\| \cdot \| : V \rightarrow \mathbb{R}$ que asigna a cada vector $\mathbf{v} \in V$ un número real no negativo $\| \mathbf{v} \|$, y que satisface las siguientes propiedades:
+Una _norma_ en un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es una función $\| \cdot \| : V \rightarrow \mathbb{R}$ que asigna a cada vector $\mathbf{v} \in V$ un número real no negativo $\| \mathbf{v} \|$, y que satisface las siguientes propiedades:
 
 1. **No negatividad**: Para todo $\mathbf{v} \in V$, se cumple que $\| \mathbf{v} \| \geq 0$. Además, $\| \mathbf{v} \| = 0$ si y solo si $\mathbf{v} = \mathbf{0}$.
 2. **Homogeneidad escalar**: Para todo escalar $a \in \mathbb{F}$ y todo vector $\mathbf{v} \in V$, se cumple que $\| a \mathbf{v} \| = |a| \| \mathbf{v} \|$.

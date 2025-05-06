@@ -1,4 +1,4 @@
-Una _función determinante_ es una aplicación [[Función multilineal|multilineal]] *alternada* y *normalizada* definida sobre un espacio vectorial. Esto es, dado $V$ un [[espacio vectorial]] de dimensión finita $n$ sobre un campo $\mathbb{F}$, y dado $\mathrm{Alt}^n(V)$, el conjunto de todas las aplicaciones $n$-lineales *alternadas* $f: V^n \to \mathbb{F}$. Una aplicación
+Una _función determinante_ es una aplicación [[Función multilineal|multilineal]] *alternada* y *normalizada* definida sobre un espacio vectorial. Esto es, dado $V$ un [[Espacio vectorial]] de dimensión finita $n$ sobre un campo $\mathbb{F}$, y dado $\mathrm{Alt}^n(V)$, el conjunto de todas las aplicaciones $n$-lineales *alternadas* $f: V^n \to \mathbb{F}$. Una aplicación
 $$
 \det: V^n \to \mathbb{F}
 $$

@@ -1,4 +1,4 @@
-Un _operador lineal_ entre dos [[espacio vectorial|espacios vectoriales]] $V$ y $W$ sobre el mismo campo $\mathbb{F}$ es una función $A: V \rightarrow W$ que satisface las siguientes dos propiedades para todos los vectores $\ket{u}, \ket{v} \in V$ y para todo escalar $a \in \mathbb{F}$:
+Un _operador lineal_ entre dos [[Espacio vectorial|espacios vectoriales]] $V$ y $W$ sobre el mismo campo $\mathbb{F}$ es una función $A: V \rightarrow W$ que satisface las siguientes dos propiedades para todos los vectores $\ket{u}, \ket{v} \in V$ y para todo escalar $a \in \mathbb{F}$:
 
 1. **Aditividad**: $A(\ket{u} + \ket{v}) = A(\ket{u}) + A(\ket{v})$.
 2. **Homogeneidad**: $A(a\ket{u}) = a A(\ket{u})$.
@@ -19,7 +19,7 @@ $$
 Es decir, conocer $A\ket{v_i}$ para cada $\ket{v_i}$ en la base de $V$ determina completamente el operador $A$.
 
 ## Estructura algebraica
-El conjunto $\mathcal{L}(V, W)$ se define como el conjunto de todos los [[operadores lineales]] de $V$ en $W$. Este conjunto posee una estructura de [[espacio vectorial]] sobre $\mathbb{F}$ bajo las siguientes operaciones:
+El conjunto $\mathcal{L}(V, W)$ se define como el conjunto de todos los [[operadores lineales]] de $V$ en $W$. Este conjunto posee una estructura de [[Espacio vectorial]] sobre $\mathbb{F}$ bajo las siguientes operaciones:
 
 1. **Suma de operadores**:
 $$
@@ -34,7 +34,7 @@ $$
 
 Además, si $V = W$, el conjunto $\mathcal{L}(V, V)$ puede dotarse de una estructura de [[Álgebra|álgebra asociativa]] sobre $\mathbb{F}$, usando la composición de operadores:
 ## Producto de operadores lineales
-Sea $A: V \rightarrow W$ y $B: W \rightarrow U$ dos [[operadores lineales]], donde $V$, $W$ y $U$ son [[espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$. El _producto_ o _composición_ de $A$ y $B$ es el operador:
+Sea $A: V \rightarrow W$ y $B: W \rightarrow U$ dos [[operadores lineales]], donde $V$, $W$ y $U$ son [[Espacio vectorial|espacios vectoriales]] sobre un mismo campo $\mathbb{F}$. El _producto_ o _composición_ de $A$ y $B$ es el operador:
 $$
 BA: V \rightarrow U
 $$

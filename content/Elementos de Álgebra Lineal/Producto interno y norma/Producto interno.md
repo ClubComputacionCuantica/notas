@@ -1,4 +1,4 @@
-El _producto interno_, en un [[espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$, se define como una operación binaria $\langle \cdot | \cdot \rangle : V \times V \rightarrow \mathbb{F}$ (que toma dos vectores y devuelve un escalar), satisfaciendo las siguientes propiedades para todos $\mathbf{u},\mathbf{v},\mathbf{w} \in V$:
+El _producto interno_, en un [[Espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$, se define como una operación binaria $\langle \cdot | \cdot \rangle : V \times V \rightarrow \mathbb{F}$ (que toma dos vectores y devuelve un escalar), satisfaciendo las siguientes propiedades para todos $\mathbf{u},\mathbf{v},\mathbf{w} \in V$:
 
 1. **Conjugada simétrica**: $\langle \mathbf{u} | \mathbf{v} \rangle = \langle \mathbf{v} | \mathbf{u} \rangle ^*$.
 2. **Linealidad en el segundo argumento**[^1]: $\langle \mathbf{w} | a\mathbf{u} + b\mathbf{v} \rangle = a\langle \mathbf{w} | \mathbf{u} \rangle + b\langle \mathbf{w} | \mathbf{v} \rangle$ para todos los escalares complejos $a, b$.

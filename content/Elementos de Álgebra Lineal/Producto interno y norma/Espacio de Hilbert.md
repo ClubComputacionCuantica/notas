@@ -1,4 +1,4 @@
-Un _espacio de Hilbert_ es un [[espacio vectorial|espacio vectorial]], usualmente denotado por $\mathcal{H}$, sobre $\mathbb{R}$ o $\mathbb{C}$, equipado con un [[Producto interno|producto interno]]:
+Un _espacio de Hilbert_ es un [[Espacio vectorial|Espacio vectorial]], usualmente denotado por $\mathcal{H}$, sobre $\mathbb{R}$ o $\mathbb{C}$, equipado con un [[Producto interno|producto interno]]:
 $$
 \langle \cdot, \cdot \rangle: \mathcal{H} \times \mathcal{H} \rightarrow \mathbb{C},
 $$

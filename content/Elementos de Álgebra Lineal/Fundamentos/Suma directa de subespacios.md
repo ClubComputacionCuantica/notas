@@ -1,4 +1,4 @@
-Sea $V$ un [[espacio vectorial]] sobre un campo $\mathbb{F}$, y sean $U, W \subseteq V$ subespacios. Se dice que $V$ es la _suma directa_ de $U$ y $W$, y se escribe:
+Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$, y sean $U, W \subseteq V$ subespacios. Se dice que $V$ es la _suma directa_ de $U$ y $W$, y se escribe:
 $$
 V = U \oplus W,
 $$
