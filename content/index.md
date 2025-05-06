@@ -6,7 +6,7 @@ Este sitio reúne una colección de **notas interconectadas** centradas en los e
 
 El objetivo es construir una referencia que cubra un **panorama amplio del área**, desde los fundamentos hasta ideas más avanzadas presentes en ciencias cuánticas. Las notas no siguen una secuencia didáctica lineal; las entradas están organizadas de forma modular y permiten explorar conexiones entre nociones clave.
 
-La sección actualmente disponible es [[Elementos de Álgebra Lineal]].
+La sección actualmente disponible es [[Elementos de Álgebra Lineal]]. (Puedes comenzar con la sección de [[Elementos-de-Álgebra-Lineal/Fundamentos|Fundamentos]])
 
 El proyecto está desarrollado con asistencia de inteligencia artificial, con un enfoque riguroso, claro y cuidadosamente redactado. Las entradas en estado de borrador funcionan únicamente como estructura o referencia cruzada, y serán completadas en futuras etapas del proyecto.
 
