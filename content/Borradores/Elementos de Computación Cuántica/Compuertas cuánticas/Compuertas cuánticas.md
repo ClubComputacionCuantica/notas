@@ -1,15 +1,15 @@
-Las _compuertas cuánticas_ son [[Operadores unitarios]] que actúan sobre [[Postulado 1. El estado de un sistema|estados cuánticos]] de uno o más [[Qubit]]. Estas compuertas son análogas a las [[Compuertas lógicas en computación clásica]], pero operan sobre qubits en lugar de bits clásicos. 
+Las _compuertas cuánticas_ son [Operadores unitarios](../../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20unitarios.md) que actúan sobre [estados cuánticos](../../Elementos%20de%20Mecánica%20Cuántica/Postulado%201.%20El%20estado%20de%20un%20sistema.md) de uno o más [Qubit](../../Elementos%20de%20Información%20Cuántica/Qubit.md). Estas compuertas son análogas a las [Compuertas lógicas en computación clásica](../../Elementos%20de%20Información%20Clásica/Compuertas%20lógicas%20en%20computación%20clásica.md), pero operan sobre qubits en lugar de bits clásicos. 
 
 Una compuerta cuántica $U$ actúa sobre un estado cuántico $\ket{\psi}$ produciendo un nuevo estado cuántico $\ket{\psi'}$ de la siguiente manera:
 $$
 \ket{\psi'} = U\ket{\psi}
 $$
 
-Para que una operación sea una compuerta cuántica válida, $U$ debe ser un [[Operadores unitarios|operador unitario]], esta propiedad asegura la reversibilidad de las operaciones cuánticas y la conservación de la probabilidad total.
+Para que una operación sea una compuerta cuántica válida, $U$ debe ser un [operador unitario](../../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20unitarios.md), esta propiedad asegura la reversibilidad de las operaciones cuánticas y la conservación de la probabilidad total.
 
 Ejemplos de compuertas cuánticas incluyen:
 
-- **[[Compuerta de Hadamard]]**: Crea superposiciones de estados, actuando sobre un solo qubit. Transforma los estados base $\ket{0}$ y $\ket{1}$ en estados de superposición.
+- **[Compuerta de Hadamard](Compuerta%20de%20Hadamard.md)**: Crea superposiciones de estados, actuando sobre un solo qubit. Transforma los estados base $\ket{0}$ y $\ket{1}$ en estados de superposición.
 $$
 H = \frac{1}{\sqrt{2}}
 \begin{pmatrix}

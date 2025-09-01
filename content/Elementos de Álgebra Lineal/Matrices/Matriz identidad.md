@@ -1,4 +1,4 @@
-La _matriz identidad_, denotada $I$, es una [[Matrices|matriz]] cuadrada $n \times n$ definida por:
+La _matriz identidad_, denotada $I$, es una [matriz](Matrices.md) cuadrada $n \times n$ definida por:
 $$
 I_{ij} = \begin{cases}
 1 & \text{si } i = j, \\

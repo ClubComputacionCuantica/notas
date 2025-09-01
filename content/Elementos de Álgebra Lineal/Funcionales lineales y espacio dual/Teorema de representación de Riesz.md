@@ -1,11 +1,11 @@
-Sea $V$ un [[espacio de Hilbert]] complejo con [[producto interno]] $\langle \cdot | \cdot \rangle:V\times V \rightarrow \mathbb{C}$. El *teorema de representación de Riesz* establece que todo [[funcional lineal]] continuo $f: V \to \mathbb{C}$ puede representarse como un producto interno con un vector fijo de $V$.
+Sea $V$ un [espacio de Hilbert](../Producto%20interno%20y%20norma/Espacio%20de%20Hilbert.md) complejo con [producto interno](../Producto%20interno%20y%20norma/Producto%20interno.md) $\langle \cdot | \cdot \rangle:V\times V \rightarrow \mathbb{C}$. El *teorema de representación de Riesz* establece que todo [Funcional lineal](Funcional%20lineal.md) continuo $f: V \to \mathbb{C}$ puede representarse como un producto interno con un vector fijo de $V$.
 
 Formalmente:
 	Para todo $f \in V^*$ existe un único vector $\mathbf{v}_f \in V$ tal que 
 $$
 f(\mathbf{w}) = \langle \mathbf{v}_f, \mathbf{w} \rangle \quad \text{para todo } \mathbf{w} \in V.
 $$
-Además, la aplicación $f \mapsto \mathbf{v}_f$ es lineal y define un [[Isomorfismo de espacios vectoriales|isomorfismo]] anti-lineal entre $V^*$ y $V$:
+Además, la aplicación $f \mapsto \mathbf{v}_f$ es lineal y define un [isomorfismo](../Fundamentos/Isomorfismo%20de%20espacios%20vectoriales.md) anti-lineal entre $V^*$ y $V$:
 $$
 V^* \cong V.
 $$

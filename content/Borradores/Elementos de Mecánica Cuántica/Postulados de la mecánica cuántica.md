@@ -1,5 +1,5 @@
-[[Postulado 1. El estado de un sistema]]
-[[Postulado 2. Representación de observables cuánticos]]
-[[Postulado 3. Mediciones]]
-	[[Postulado 3'. Mediciones]]
-[[Postulado 4. Evolución temporal de un sistema cuántico]]
+[Postulado 1. El estado de un sistema](Postulado%201.%20El%20estado%20de%20un%20sistema.md)
+[Postulado 2. Representación de observables cuánticos](Postulado%202.%20Representación%20de%20observables%20cuánticos.md)
+[Postulado 3. Mediciones](Postulado%203.%20Mediciones.md)
+	[Postulado 3'. Mediciones](Postulado%203'.%20Mediciones.md)
+[Postulado 4. Evolución temporal de un sistema cuántico](Postulado%204.%20Evolución%20temporal%20de%20un%20sistema%20cuántico.md)

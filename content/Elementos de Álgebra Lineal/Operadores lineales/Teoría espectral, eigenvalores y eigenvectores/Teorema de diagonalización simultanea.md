@@ -1,3 +1,3 @@
-Sean $A: V \rightarrow V$ y $B: V \rightarrow V$ [[operadores lineales]]  en un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}.$$[A,B] = 0$ ([[conmutador]]) si y solo si existe una [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] de $V$ respecto a la cual $A$ y $B$ son [[Operadores diagonales|diagonales]].
+Sean $A: V \rightarrow V$ y $B: V \rightarrow V$ [Operadores lineales](../Operadores%20lineales.md)  en un [espacio vectorial](../../Fundamentos/Espacio%20vectorial.md) $V$ sobre un campo $\mathbb{F}.$$[A,B] = 0$ ([Conmutador](../Conmutador.md)) si y solo si existe una [base](../../Fundamentos/Base%20y%20dimensión.md) [ortonormal](../../Producto%20interno%20y%20norma/Ortogonalidad/Ortogonalidad%20y%20Ortonormalidad.md) de $V$ respecto a la cual $A$ y $B$ son [diagonales](../Operadores%20diagonales.md).
 
 #algebra-lineal 

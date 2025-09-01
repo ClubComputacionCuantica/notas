@@ -1,3 +1,3 @@
 The orbit of a stabilizer state in the context of quantum information theory refers to the set of states that can be reached by applying all possible Pauli operators to the stabilizer state. Since stabilizer states are defined by a stabilizer group (a subgroup of the Pauli group), the orbit of a stabilizer state under the action of the Pauli group is the set of all states that are equivalent to the original stabilizer state under this group action
 
-La _órbita_ de un [[estado estabilizador]] es el conjunto de estados que pueden ser alcanzados al aplicarsele a tal estado todos los posibles operadores del [[grupo de Pauli]].
+La _órbita_ de un [Estado estabilizador](Estado%20estabilizador.md) es el conjunto de estados que pueden ser alcanzados al aplicarsele a tal estado todos los posibles operadores del [Grupo de Pauli](Grupo%20de%20Pauli.md).

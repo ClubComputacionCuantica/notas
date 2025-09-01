@@ -1,4 +1,4 @@
-La _compuerta CNOT_ (del inglés Controlled-NOT) es una [[Compuertas cuánticas|compuerta cuántica]] de dos [[Qubit|qubits]] que aplica una operación NOT (o Pauli-X) sobre el segundo qubit (llamado *qubit objetivo*), si y solo si el primer qubit (el *qubit de control*) está en el estado $\ket{1}$.
+La _compuerta CNOT_ (del inglés Controlled-NOT) es una [compuerta cuántica](Compuertas%20cuánticas.md) de dos [qubits](../../Elementos%20de%20Información%20Cuántica/Qubit.md) que aplica una operación NOT (o Pauli-X) sobre el segundo qubit (llamado *qubit objetivo*), si y solo si el primer qubit (el *qubit de control*) está en el estado $\ket{1}$.
 ### Definición operativa
 Actúa sobre las bases computacionales $\{\ket{00}, \ket{01}, \ket{10}, \ket{11}\}$ de la siguiente manera:
 $$

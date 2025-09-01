@@ -1,4 +1,4 @@
-Sea $A$ una [[Matrices|matriz]] cuadrada de orden $n$, es decir, $A \in \mathbb{F}^{n \times n}$, donde $\mathbb{F}$ es un campo. El _determinante_ de $A$, denotado $\det(A)$ o $|A|$, es una [[función determinante]] que devuelve un escalar asociado a $A$ que refleja propiedades fundamentales como la [[Matrices invertibles|invertibilidad]], el volumen transformado, y el cambio de orientación en transformaciones lineales.
+Sea $A$ una [matriz](Matrices.md) cuadrada de orden $n$, es decir, $A \in \mathbb{F}^{n \times n}$, donde $\mathbb{F}$ es un campo. El _determinante_ de $A$, denotado $\det(A)$ o $|A|$, es una [Función determinante](../Formas%20multilineales/Función%20determinante.md) que devuelve un escalar asociado a $A$ que refleja propiedades fundamentales como la [invertibilidad](Matrices%20invertibles.md), el volumen transformado, y el cambio de orientación en transformaciones lineales.
 
 ### Definición
 Para $n = 2$, si
@@ -29,8 +29,8 @@ donde $A_{1j}$ es la submatriz que se obtiene eliminando la fila 1 y la columna 
 1. $\det(I_n) = 1$.
 2. $\det(AB) = \det(A)\det(B)$.
 3. $\det(A^T) = \det(A)$.
-4. $\det(A) = 0$ si y solo si $A$ es [[Matrices invertibles#Matrices singulares|singular]].
-5. Si $A$ es [[Matrices triangulares|triangular]], su determinante es el producto de sus elementos diagonales.
+4. $\det(A) = 0$ si y solo si $A$ es [](Matrices%20invertibles.md#Matrices%20singulares|singular).
+5. Si $A$ es [triangular](Matrices%20triangulares.md), su determinante es el producto de sus elementos diagonales.
 6. $\det(A^{-1}) = 1/\det(A)$, si $A$ es invertible.
 
 ### Interpretación geométrica

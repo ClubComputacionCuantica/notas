@@ -1,4 +1,4 @@
-El *símbolo de Levi-Civita*, denotado por $\epsilon_{ijk}$, es un [[tensor]] completamente antisimétrico de tercer orden definido a través de [[Permutación]], de la siguiente manera:
+El *símbolo de Levi-Civita*, denotado por $\epsilon_{ijk}$, es un [tensor](../../Elementos%20de%20Álgebra%20Lineal/Formas%20multilineales/Tensor.md) completamente antisimétrico de tercer orden definido a través de una [permutación](Permutación.md), de la siguiente manera:
 $$
 \epsilon_{ijk} = \begin{cases}
 +1 & \text{si } (i, j, k) \text{ es una permutación par de } (1, 2, 3), \\

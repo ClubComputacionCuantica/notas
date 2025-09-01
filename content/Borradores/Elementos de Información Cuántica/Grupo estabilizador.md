@@ -1,1 +1,1 @@
-Un _grupo estabilizador_ en $n$ qubits es un [[Grupo|subgrupo abeliano]] del [[grupo de Pauli]] $\mathcal{P}_n$ tal que no contiene al elemento $-I$ en ningún qubit.
+Un _grupo estabilizador_ en $n$ qubits es un [subgrupo abeliano](../Elementos%20Adicionales/Teoria%20de%20Grupos/Grupo.md) del [Grupo de Pauli](Grupo%20de%20Pauli.md) $\mathcal{P}_n$ tal que no contiene al elemento $-I$ en ningún qubit.

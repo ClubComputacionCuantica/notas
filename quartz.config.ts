@@ -1,4 +1,4 @@
-import { QuartzConfig } from "./quartz/cfg"
+﻿import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -53,36 +53,29 @@ const config: QuartzConfig = {
     },
   },
   plugins: {
-    transformers: [
+      transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
-      }),
+      Plugin.CreatedModifiedDate({ priority: ["frontmatter", "filesystem"] }),
       Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
+        theme: { light: "github-light", dark: "github-dark" },
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      // Key line: relative + keep full folder paths
+      Plugin.CrawlLinks({ markdownLinkResolution: "relative", prettyLinks: true }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
-      Plugin.AliasRedirects(),
+      // Plugin.AliasRedirects(),   // disable this
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: false,
-      }),
+      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: false }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),

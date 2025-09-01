@@ -1,4 +1,4 @@
-Las mediciones de un sistema cuántico están descritas por un conjunto de _operadores de medición_ $\{M_m\}$ que actúan sobre el [[Postulado 1. El estado de un sistema|espacio de Hilbert asociado al sistema]] a medirse. El indice $m$ hace referencia a los resultados de la medición que pueden ocurrir en el experimento. Si el [[Postulado 1. El estado de un sistema|estado cuántico del sistema]] es $\ket{\psi}$ inmediatamente antes de la medición, entonces la probabilidad de que ocurra el resultado $m$ está dada por
+Las mediciones de un sistema cuántico están descritas por un conjunto de _operadores de medición_ $\{M_m\}$ que actúan sobre el [espacio de Hilbert asociado al sistema](Postulado%201.%20El%20estado%20de%20un%20sistema.md) a medirse. El indice $m$ hace referencia a los resultados de la medición que pueden ocurrir en el experimento. Si el [estado cuántico del sistema](Postulado%201.%20El%20estado%20de%20un%20sistema.md) es $\ket{\psi}$ inmediatamente antes de la medición, entonces la probabilidad de que ocurra el resultado $m$ está dada por
 $$
 p(m)=\bra{\psi}M_{m}^\dagger M_m \ket{\psi}
 $$
@@ -16,7 +16,7 @@ La ecuación de completez cual expresa el hecho de que las probabilidades $p(m)$
 $$
 1 = \sum_{m} p(m) = \sum_m \bra{\psi}M_{m}^\dagger M_m \ket{\psi}
 $$
-Un caso particular de mediciones es el de [[Mediciones proyectivas]].
+Un caso particular de mediciones es el de [Mediciones proyectivas](Mediciones%20proyectivas.md).
 
  
 %%Straight from Nielsen-Chuang%%

@@ -1,4 +1,4 @@
-Una [[Matrices|matriz]] cuadrada $A \in \mathbb{F}^{n \times n}$ se dice que es _triangular_ si todos los elementos por encima o por debajo de la diagonal principal son cero.
+Una [matriz](Matrices.md) cuadrada $A \in \mathbb{F}^{n \times n}$ se dice que es _triangular_ si todos los elementos por encima o por debajo de la diagonal principal son cero.
 ### Matriz triangular superior
 Una matriz $A = [a_{ij}]$ es _triangular superior_ si:
 $$
@@ -19,6 +19,6 @@ Es decir, todos los elementos por encima de la diagonal son cero.
 $$
 \det(A) = \prod_{i=1}^n a_{ii}
 $$
-- Una matriz triangular es [[Matrices invertibles|invertible]] si y solo si todos los elementos en su diagonal son distintos de cero.
+- Una matriz triangular es [invertible](Matrices%20invertibles.md) si y solo si todos los elementos en su diagonal son distintos de cero.
 
 #algebra-lineal 

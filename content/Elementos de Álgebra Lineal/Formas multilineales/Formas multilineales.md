@@ -1,4 +1,4 @@
-Una _forma multilineal_ es una función que toma varios vectores de uno o más [[Espacio vectorial|espacios vectoriales]] y devuelve un escalar, siendo lineal en cada uno de sus argumentos por separado.
+Una _forma multilineal_ es una función que toma varios vectores de uno o más [espacios vectoriales](../Fundamentos/Espacio%20vectorial.md) y devuelve un escalar, siendo lineal en cada uno de sus argumentos por separado.
 
 Sea $V_1, \dots, V_k$ espacios vectoriales sobre un mismo campo $\mathbb{F}$, una aplicación:
 $$
@@ -13,8 +13,8 @@ $$
 es lineal.
 
 ### Ejemplos
-- Un [[funcional lineal]] es una 1-forma multilineal.
-- El [[producto interno]] en un espacio vectorial complejo es una forma bilineal conjugada (semilineal en un argumento, lineal en el otro).
-- El [[determinante]] es una forma multilineal alternante sobre los vectores columna de una matriz cuadrada.
+- Un [Funcional lineal](../Funcionales%20lineales%20y%20espacio%20dual/Funcional%20lineal.md) es una 1-forma multilineal.
+- El [producto interno](../Producto%20interno%20y%20norma/Producto%20interno.md) en un espacio vectorial complejo es una forma bilineal conjugada (semilineal en un argumento, lineal en el otro).
+- El [Determinante](../Matrices/Determinante.md) es una forma multilineal alternante sobre los vectores columna de una matriz cuadrada.
 
 #algebra-lineal 

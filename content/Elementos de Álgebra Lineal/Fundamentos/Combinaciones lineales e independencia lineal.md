@@ -1,4 +1,4 @@
-Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$ y sean $\mathbf{v_1}, \mathbf{v_2}, \ldots, \mathbf{v_n} \in V$. 
+Sea $V$ un [espacio vectorial](Espacio%20vectorial.md) sobre un campo $\mathbb{F}$ y sean $\mathbf{v_1}, \mathbf{v_2}, \ldots, \mathbf{v_n} \in V$. 
 Una _combinación lineal_ de los vectores $\mathbf{v_1}, \mathbf{v_2}, \ldots, \mathbf{v_n}$ es cualquier vector $\mathbf{u} \in V$ que se puede escribir como:
 $$
 \mathbf{u} = a_1\mathbf{v_1} + a_2\mathbf{v_2} + \ldots + a_n\mathbf{v_n}

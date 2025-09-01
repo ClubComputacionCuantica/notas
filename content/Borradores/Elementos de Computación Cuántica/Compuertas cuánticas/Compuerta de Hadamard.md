@@ -1,4 +1,4 @@
-La _compuerta de Hadamard_, denotada como $H$, es una [[Compuertas cuánticas|compuerta cuántica]] que actúa sobre un solo [[qubit]]. Se define en el [[espacio de Hilbert]] de dos dimensiones.
+La _compuerta de Hadamard_, denotada como $H$, es una [compuerta cuántica](Compuertas%20cuánticas.md) que actúa sobre un solo [Qubit](../../Elementos%20de%20Información%20Cuántica/Qubit.md). Se define en el [espacio de Hilbert](../../../Elementos%20de%20Álgebra%20Lineal/Producto%20interno%20y%20norma/Espacio%20de%20Hilbert.md) de dos dimensiones.
 ### Definición operativa
 La acción de la compuerta de Hadamard sobre la base estándar $\{\ket{0}, \ket{1}\}$ está dada por:
 $$
@@ -6,7 +6,7 @@ H\ket{0} = \frac{1}{\sqrt{2}} (\ket{0} + \ket{1}), \qquad
 H\ket{1} = \frac{1}{\sqrt{2}} (\ket{0} - \ket{1})
 $$
 ### Representación matricial
-En [[Representación de operadores lineales con matrices|forma matricial]], la compuerta de Hadamard se representa como:
+En [forma matricial](../../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Representación%20de%20operadores%20lineales%20con%20matrices.md), la compuerta de Hadamard se representa como:
 $$
 H = \frac{1}{\sqrt{2}}
 \begin{pmatrix}

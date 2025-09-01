@@ -1,3 +1,3 @@
-Un espacio de Banach es un [[Espacio vectorial]] [[Norma|normado]] $(V, \|\cdot\|)$ sobre el campo de los números reales $\mathbb{R}$ o complejos $\mathbb{C}$, que es [[Espacio métrico completo|completo]] con respecto a la métrica inducida por su norma.
+Un espacio de Banach es un [espacio vectorial](../../Elementos%20de%20Álgebra%20Lineal/Fundamentos/Espacio%20vectorial.md) [normado](../../Elementos%20de%20Álgebra%20Lineal/Producto%20interno%20y%20norma/norma.md) $(V, \|\cdot\|)$ sobre el campo de los números reales $\mathbb{R}$ o complejos $\mathbb{C}$, que es [completo](Espacio%20métrico%20completo) con respecto a la métrica inducida por su norma.
 
 #analisis-funcional

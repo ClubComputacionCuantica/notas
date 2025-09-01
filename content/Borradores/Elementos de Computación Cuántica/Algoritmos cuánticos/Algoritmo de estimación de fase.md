@@ -1,10 +1,10 @@
-El *algoritmo cuántico de estimación de fase* (*Quantum Phase Estimation*, *QPE*) es un algoritmo cuántico que permite estimar la fase $\phi$ en un autovalor de la forma $e^{2\pi i \phi}$ asociado a un [[Operadores unitarios|operador unitario]] $U$ y a un [[Eigenvalores y eigenvectores|eigenvector]] $\ket{u}$ tal que:
+El *algoritmo cuántico de estimación de fase* (*Quantum Phase Estimation*, *QPE*) es un algoritmo cuántico que permite estimar la fase $\phi$ en un autovalor de la forma $e^{2\pi i \phi}$ asociado a un [operador unitario](../../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20unitarios.md) $U$ y a un [eigenvector](../../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Teoría%20espectral,%20eigenvalores%20y%20eigenvectores/Eigenvalores%20y%20eigenvectores.md) $\ket{u}$ tal que:
 $$
 U\ket{u} = e^{2\pi i \phi}\ket{u}, \quad \phi \in [0,1).
 $$
 
-El objetivo es obtener una estimación binaria de $\phi$ con alta probabilidad. El algoritmo utiliza dos [[registros]]:
-- Un registro de $t$ [[Qubit|qubits]] para almacenar la estimación binaria de $\phi$.
+El objetivo es obtener una estimación binaria de $\phi$ con alta probabilidad. El algoritmo utiliza dos [Registros](../../Elementos%20de%20Mecánica%20Cuántica/Registros.md):
+- Un registro de $t$ [qubits](../../Elementos%20de%20Información%20Cuántica/Qubit.md) para almacenar la estimación binaria de $\phi$.
 - Un segundo registro que contiene el eigenvector $\ket{u}$.
 ### Esquema del algoritmo
 

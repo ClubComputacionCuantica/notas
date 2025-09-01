@@ -1,5 +1,5 @@
 Sea $X$ un conjunto finito de $n$ elementos. Una _permutación_ de $X$ es una biyección $\sigma: X \rightarrow X$. 
-El conjunto de todas las permutaciones de $X$ se denota por $S_n$, conocido como el _[[grupo]] simétrico_ de grado $n$.
+El conjunto de todas las permutaciones de $X$ se denota por $S_n$, conocido como el _[Grupo](Teoria%20de%20Grupos/Grupo.md) simétrico_ de grado $n$.
 $$
 \sigma \in S_n \iff \sigma: X \rightarrow X \text{ es biyectiva}
 $$

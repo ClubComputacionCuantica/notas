@@ -1,4 +1,4 @@
-Sea $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$, y sean $U, W \subseteq V$ subespacios. Se dice que $V$ es la _suma directa_ de $U$ y $W$, y se escribe:
+Sea $V$ un [espacio vectorial](Espacio%20vectorial.md) sobre un campo $\mathbb{F}$, y sean $U, W \subseteq V$ subespacios. Se dice que $V$ es la _suma directa_ de $U$ y $W$, y se escribe:
 $$
 V = U \oplus W,
 $$
@@ -16,7 +16,7 @@ $$
 Esto garantiza que $U + W = V$ y que la descomposición es única. La suma directa se puede generalizar a más de dos subespacios.
 
 ### Resultados
-- Si $V$ está dotado de un [[producto interno]] $U$ es un [[subespacio cerrado]] y $W = U^\perp$ es su [[complemento ortogonal]], entonces
+- Si $V$ está dotado de un [producto interno](../Producto%20interno%20y%20norma/Producto%20interno.md) $U$ es un [subespacio cerrado](../../Borradores/Elementos%20Adicionales/Subespacio%20cerrado.md) y $W = U^\perp$ es su [Complemento ortogonal](../Producto%20interno%20y%20norma/Ortogonalidad/Complemento%20ortogonal.md), entonces
 $$
 V = U \oplus U^\perp.
 $$

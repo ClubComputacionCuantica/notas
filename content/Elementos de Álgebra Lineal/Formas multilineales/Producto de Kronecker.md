@@ -1,4 +1,4 @@
-Sea $A$ una [[Matrices|matriz]] de tamaño $m \times n$ y $B$ una matriz de tamaño $p \times q$, el _producto de Kronecker_, también conocido como _producto tensorial_, de $A$ por $B$, denotado como $A \otimes B$, es una matriz de tamaño $mp \times nq$ formada por el producto de cada elemento de $A$ por la matriz completa $B$. Formalmente, si $A = [a_{ij}]$ y $B = [b_{kl}]$, entonces el producto de Kronecker $A \otimes B$ se define como:
+Sea $A$ una [matriz](../Matrices/Matrices.md) de tamaño $m \times n$ y $B$ una matriz de tamaño $p \times q$, el _producto de Kronecker_, también conocido como _producto tensorial_, de $A$ por $B$, denotado como $A \otimes B$, es una matriz de tamaño $mp \times nq$ formada por el producto de cada elemento de $A$ por la matriz completa $B$. Formalmente, si $A = [a_{ij}]$ y $B = [b_{kl}]$, entonces el producto de Kronecker $A \otimes B$ se define como:
 $$
 A \otimes B = \begin{bmatrix}
     a_{11}B & a_{12}B & \cdots & a_{1n}B \\

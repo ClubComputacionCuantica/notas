@@ -1,4 +1,4 @@
-El _modelo del disco de Poincaré_ es una realización del [[Espacio hiperbólico|espacio hiperbólico]] bidimensional, es decir, un modelo de [[Geometría no euclideana|geometría no euclídea]] con curvatura constante negativa.
+El _modelo del disco de Poincaré_ es una realización del [espacio hiperbólico](Espacio%20hiperbólico.md) bidimensional, es decir, un modelo de [geometría no euclídea](Geometría%20no%20euclideana.md) con curvatura constante negativa.
 
 Formalmente, el espacio se define como el conjunto:
 $$
@@ -24,7 +24,7 @@ $$
 
 - El modelo es **conforme**, es decir, preserva los ángulos entre curvas.
 
-- La métrica induce una [[Distancia hiperbólica|distancia hiperbólica]] dada por:
+- La métrica induce una [distancia hiperbólica](Distancia%20hiperbólica) dada por:
 $$
 d(z_1, z_2) = \tanh^{-1} \left| \frac{z_1 - z_2}{1 - \bar{z}_1 z_2} \right|.
 $$
@@ -36,10 +36,10 @@ $$
 
 ### Ejemplos de aplicaciones
 
-- En [[Teoría de números|teoría de números]] y [[Teoría de funciones modulares|funciones modulares]], el disco de Poincaré se usa como dominio para acciones de grupos Fuchsianos.
+- En [teoría de números](Teoría%20de%20números) y [funciones modulares](Teoría%20de%20funciones%20modulares), el disco de Poincaré se usa como dominio para acciones de grupos Fuchsianos.
 
-- En [[Geometría hiperbólica]], sirve como una representación visual intuitiva del plano hiperbólico.
+- En [Geometría hiperbólica](Geometría%20hiperbólica), sirve como una representación visual intuitiva del plano hiperbólico.
 
-- En [[Teoría cuántica de campos|teoría cuántica de campos]] y [[Teoría de cuerdas|teoría de cuerdas]], aparece como modelo de espacio-tiempo con simetría conforme.
+- En [teoría cuántica de campos](Teoría%20cuántica%20de%20campos) y [teoría de cuerdas](Teoría%20de%20cuerdas), aparece como modelo de espacio-tiempo con simetría conforme.
 
 #geometría-diferencial

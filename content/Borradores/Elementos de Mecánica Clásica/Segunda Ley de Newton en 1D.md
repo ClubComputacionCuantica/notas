@@ -18,7 +18,7 @@ Puesto que la ecuacion diferencial anterior es de segundo orden, para obtener un
 $$
 x(t_0)=x_0; x'(t_0)=v_0
 $$
-Si la funcion $F$ es una [[funcion suave]], de la teoria elemental de ecuaciones diferenciales, se tiene que existe una [[solucion local]] unica para cada par de condiciones iniciales.
+Si la funcion $F$ es una [funcion suave](funcion%20suave), de la teoria elemental de ecuaciones diferenciales, se tiene que existe una [solucion local](solucion%20local) unica para cada par de condiciones iniciales.
 
 Puesto que la ecuacion anterior es en general no-lineal, no puede esperarse que la solucion existe para todo $t$.
 %%For a proof on existence and uniqueness, see e.g. Example 8.2 and Theorem 8.13%%

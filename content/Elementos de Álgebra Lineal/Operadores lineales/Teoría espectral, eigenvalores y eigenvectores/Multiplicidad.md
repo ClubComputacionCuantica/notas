@@ -1,10 +1,10 @@
-La _multiplicidad_ asociada a un [[Eigenvalores y eigenvectores|eigenvalor]] $\lambda$ de un operador lineal $A: V \rightarrow V$, con $V$ un [[Espacio vectorial]] sobre un campo $\mathbb{F}$, se define en dos contextos principales: la _multiplicidad algebraica_ y la _multiplicidad geométrica_.
+La _multiplicidad_ asociada a un [eigenvalor](Eigenvalores%20y%20eigenvectores.md) $\lambda$ de un operador lineal $A: V \rightarrow V$, con $V$ un [espacio vectorial](../../Fundamentos/Espacio%20vectorial.md) sobre un campo $\mathbb{F}$, se define en dos contextos principales: la _multiplicidad algebraica_ y la _multiplicidad geométrica_.
 ### Multiplicidad algebraica
 
-La _multiplicidad algebraica_ de un eigenvalor $\lambda$, denotada por $m_a(\lambda)$, se refiere al número de veces que $\lambda$ aparece como raíz del [[Eigenvalores y eigenvectores#Polinomio característico|polinomio característico]] de $A$. Si el polinomio característico de $A$ es $p(\lambda) = \det(A - \lambda I)$, entonces $m_a(\lambda)$ es el mayor entero $k$ tal que $(\lambda - \lambda_i)^k$ divide a $p(\lambda)$, donde $\lambda_i$ es una raíz del polinomio.
+La _multiplicidad algebraica_ de un eigenvalor $\lambda$, denotada por $m_a(\lambda)$, se refiere al número de veces que $\lambda$ aparece como raíz del [](Eigenvalores%20y%20eigenvectores.md#Polinomio%20característico|polinomio%20característico) de $A$. Si el polinomio característico de $A$ es $p(\lambda) = \det(A - \lambda I)$, entonces $m_a(\lambda)$ es el mayor entero $k$ tal que $(\lambda - \lambda_i)^k$ divide a $p(\lambda)$, donde $\lambda_i$ es una raíz del polinomio.
 ### Multiplicidad geométrica
 
-La _multiplicidad geométrica_ de un eigenvalor $\lambda$, denotada por $m_g(\lambda)$, se define como la [[Base y dimensión|dimensión]] del [[Eigenvalores y eigenvectores#Eigenespacio|eigenespacio]] asociado a $\lambda$, es decir:
+La _multiplicidad geométrica_ de un eigenvalor $\lambda$, denotada por $m_g(\lambda)$, se define como la [dimensión](../../Fundamentos/Base%20y%20dimensión.md) del [](Eigenvalores%20y%20eigenvectores.md#Eigenespacio|eigenespacio) asociado a $\lambda$, es decir:
 $$
 m_g(\lambda) = \dim(\ker(A - \lambda I))
 $$
@@ -15,8 +15,8 @@ $$
 1 \leq m_g(\lambda) \leq m_a(\lambda)
 $$
 
-El operador $A$ es [[Diagonalización|diagonalizable]] si y sólo si $m_g(\lambda) = m_a(\lambda)$ para todo eigenvalor $\lambda$.
+El operador $A$ es [diagonalizable](../Diagonalización.md) si y sólo si $m_g(\lambda) = m_a(\lambda)$ para todo eigenvalor $\lambda$.
 
-Cuando $m_g(\lambda) < m_a(\lambda)$ para algún $\lambda$, entonces no existe una base de eigenvectores para $A$, y es necesario considerar [[vectores generalizados]] para describir completamente su estructura.
+Cuando $m_g(\lambda) < m_a(\lambda)$ para algún $\lambda$, entonces no existe una base de eigenvectores para $A$, y es necesario considerar [vectores generalizados](vectores%20generalizados) para describir completamente su estructura.
 
 #algebra-lineal 

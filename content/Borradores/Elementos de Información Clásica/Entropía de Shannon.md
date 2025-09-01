@@ -1,4 +1,4 @@
-Dado un [[vector de probabilidad]] $p\in\mathcal{P}(\Sigma)$ sobre un alfabeto $\Sigma$, se define la _entropía de Shannon_ de $p$ como 
+Dado un [Vector de probabilidad](../Elementos%20Adicionales/Vector%20de%20probabilidad.md) $p\in\mathcal{P}(\Sigma)$ sobre un alfabeto $\Sigma$, se define la _entropía de Shannon_ de $p$ como 
 $$H(p)=-\sum_{a\in\Sigma} p(a)\log_2(p(a)).$$
 ##### Interpretación
 La entropía de Shannon puede interpretarse como la "sorpresa promedio" que se obtiene al obtener el resultado de un experimento:
@@ -17,4 +17,4 @@ Considere los registros con alfabetos y vectores de probabilidad correspondiente
 * $\Sigma=\{1,...,2^{n^2}\}$ con $p(0)=1-\frac{1}{n}$ y $p(k)=\frac{1}{n2^{n^2}}$, para $k\neq 0$. Entonces $$H(p)=-(1-\frac{1}{n})\log(1-\frac{1}{n})-2^{n^2}\cdot\frac{1}{n2^{n^2}}\log\frac{1}{n2^{n^2}}>-\frac{1}{n}\log{2^{-n^2}}=n\rightarrow\infty.$$ Mientras que $p(0)=1-\frac{1}{n}\rightarrow_{n\rightarrow\infty} 1.$ I.e. aumenta la certeza (disminuye la incertidumbre), pero la entropía tiende a infinito.
 
 #### Resultados
-* Para cualquier vector de probabilidad $p\in\mathcal{P}(\Sigma)$, $$0\leq H(p)\leq\log\#\Sigma.$$ Se sigue de la [[log es una función cóncava|concavidad de la función logaritmo]] y de la [[desigualdad de Jensen]].
+* Para cualquier vector de probabilidad $p\in\mathcal{P}(\Sigma)$, $$0\leq H(p)\leq\log\#\Sigma.$$ Se sigue de la [concavidad de la función logaritmo](../Elementos%20Adicionales/log%20es%20una%20función%20cóncava.md) y de la [Desigualdad de Jensen](../Elementos%20Adicionales/Probabilidad%20y%20Estadística/Desigualdad%20de%20Jensen.md).

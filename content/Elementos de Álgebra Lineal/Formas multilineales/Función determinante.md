@@ -1,4 +1,4 @@
-Una _función determinante_ es una aplicación [[Función multilineal|multilineal]] *alternada* y *normalizada* definida sobre un espacio vectorial. Esto es, dado $V$ un [[Espacio vectorial]] de dimensión finita $n$ sobre un campo $\mathbb{F}$, y dado $\mathrm{Alt}^n(V)$, el conjunto de todas las aplicaciones $n$-lineales *alternadas* $f: V^n \to \mathbb{F}$. Una aplicación
+Una _función determinante_ es una aplicación [multilineal](Función%20multilineal.md) *alternada* y *normalizada* definida sobre un espacio vectorial. Esto es, dado $V$ un [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) de dimensión finita $n$ sobre un campo $\mathbb{F}$, y dado $\mathrm{Alt}^n(V)$, el conjunto de todas las aplicaciones $n$-lineales *alternadas* $f: V^n \to \mathbb{F}$. Una aplicación
 $$
 \det: V^n \to \mathbb{F}
 $$
@@ -16,7 +16,7 @@ $$
 \det(e_1, \ldots, e_n) = 1.
 $$
 
-Gracias a la [[Función multilineal|multilinealidad]] y la alternancia, cualquier $f\in\mathrm{Alt}^n(V)$ queda totalmente determinado por el único valor  
+Gracias a la [multilinealidad](Función%20multilineal.md) y la alternancia, cualquier $f\in\mathrm{Alt}^n(V)$ queda totalmente determinado por el único valor  
 $$
 f(e_1,\dots,e_n)\,.
 $$
@@ -36,6 +36,6 @@ $$
 =
 \det(A),
 $$
-es decir, el [[Determinante|determinante matricial]] coincide exactamente con la aplicación abstracta definida en $\mathrm{Alt}^n(V)$.
+es decir, el [determinante matricial](../Matrices/Determinante.md) coincide exactamente con la aplicación abstracta definida en $\mathrm{Alt}^n(V)$.
 
 #algebra-lineal 

@@ -1,4 +1,4 @@
-Sea $V$ un [[Espacio vectorial]] sobre el campo $\mathbb{R}$ o $\mathbb{C}$, equipado con un producto interno $\langle \cdot | \cdot \rangle$. Para cualesquiera dos vectores $\mathbf{u}, \mathbf{v} \in V$, la *desigualdad de Cauchy-Schwarz* se expresa como:
+Sea $V$ un [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) sobre el campo $\mathbb{R}$ o $\mathbb{C}$, equipado con un producto interno $\langle \cdot | \cdot \rangle$. Para cualesquiera dos vectores $\mathbf{u}, \mathbf{v} \in V$, la *desigualdad de Cauchy-Schwarz* se expresa como:
 $$
 |\langle \mathbf{u} | \mathbf{v} \rangle| \leq \|\mathbf{u}\| \cdot \|\mathbf{v}\|,
 $$

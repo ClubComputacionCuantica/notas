@@ -1,0 +1,1 @@
+Un _ciclo_ en un [Grafo](Grafo.md) $G=(V,E)$ es un [{a,b}-sendero](Caminos,%20senderos%20y%20rutas%20en%20un%20grafo.md) tal que $a=b$.

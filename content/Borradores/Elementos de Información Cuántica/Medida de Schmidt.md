@@ -1,4 +1,4 @@
-[^1][^2]Dado un [[Postulado 1. El estado de un sistema|estado cuántico]] $\ket{\psi}\in \mathcal{H}^{(1)}\otimes\dots\otimes\mathcal{H}^{(n)}$ en un sistema con $n$ componentes, podemos escribir a $\ket{\psi}$ en la forma
+[^1][^2]Dado un [estado cuántico](../Elementos%20de%20Mecánica%20Cuántica/Postulado%201.%20El%20estado%20de%20un%20sistema.md) $\ket{\psi}\in \mathcal{H}^{(1)}\otimes\dots\otimes\mathcal{H}^{(n)}$ en un sistema con $n$ componentes, podemos escribir a $\ket{\psi}$ en la forma
 $$
 \ket{\psi}= \sum_{i=1}^R \xi_i\ket{\psi_i^{(1)}}\otimes\dots\otimes\ket{\psi_i^{(n)}}
 $$

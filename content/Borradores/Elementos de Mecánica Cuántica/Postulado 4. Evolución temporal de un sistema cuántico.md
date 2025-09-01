@@ -1,12 +1,12 @@
-La evolución temporal del estado $\ket{\psi(t)}$ [[Postulado 1. El estado de un sistema|que describe un sistema cuántico]] aislado está gobernada por la ecuación de Schrödinger:
+La evolución temporal del estado $\ket{\psi(t)}$ [que describe un sistema cuántico](Postulado%201.%20El%20estado%20de%20un%20sistema.md) aislado está gobernada por la ecuación de Schrödinger:
 $$
 i\hbar\frac{\partial}{\partial t}\ket{\psi(t)} = \hat{H}\ket{\psi(t)}
 $$
-Donde $i$ representa la unidad imaginaria, $\hbar$ es la constante de Planck y $\hat{H}$ es el _[[Hamiltoniano]]_ del sistema.
+Donde $i$ representa la unidad imaginaria, $\hbar$ es la constante de Planck y $\hat{H}$ es el _[Hamiltoniano](Hamiltoniano.md)_ del sistema.
 
 De manera equivalente%%PROOF?%%, podemos formular:
 
-La evolución temporal del estado $\ket{\psi(t)}$ [[Postulado 1. El estado de un sistema|que describe un sistema cuántico]] aislado es descrita por un [[Operadores unitarios|operador unitario]]: el estado del sistema al tiempo $t_1$, $\ket{\psi(t_1)}$ se relaciona al estado al tiempo $t_2$, $\ket{\psi(t_2)}$ a través del operador $U(t_1,t_2)$ de la siguiente manera:
+La evolución temporal del estado $\ket{\psi(t)}$ [que describe un sistema cuántico](Postulado%201.%20El%20estado%20de%20un%20sistema.md) aislado es descrita por un [operador unitario](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20unitarios.md): el estado del sistema al tiempo $t_1$, $\ket{\psi(t_1)}$ se relaciona al estado al tiempo $t_2$, $\ket{\psi(t_2)}$ a través del operador $U(t_1,t_2)$ de la siguiente manera:
 $$
 \ket{\psi(t_2)}=U(t_1,t_2)\ket{\psi(t_1)}.
 $$
@@ -15,4 +15,4 @@ $$
 
 %%For a closed system in a mixed state _ρ_, the time evolution is $\rho(t)=U\rho U^\dagger$.
 
-The evolution of an [open quantum system](https://en.wikipedia.org/wiki/Open_quantum_system "Open quantum system") can be described by [quantum operations](https://en.wikipedia.org/wiki/Quantum_operation "Quantum operation") (in an [operator sum](https://en.wikipedia.org/wiki/Quantum_operation#Statement_of_the_theorem "Quantum operation") formalism) and [quantum instruments](https://en.wikipedia.org/wiki/Quantum_instrument "Quantum instrument"), and generally does not have to be unitary.%%
+The evolution of an [open quantum system](https://en.wikipedia.org/wiki/Open_quantum_system "Open quantum system") can be described by [quantum operations](https://en.wikipedia.org/wiki/Quantum_operation "Quantum operation") (in an [](https://en.wikipedia.org/wiki/Quantum_operation#Statement_of_the_theorem%20"Quantum%20operation") formalism) and [quantum instruments](https://en.wikipedia.org/wiki/Quantum_instrument "Quantum instrument"), and generally does not have to be unitary.%%

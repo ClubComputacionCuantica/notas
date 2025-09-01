@@ -1,6 +1,6 @@
-El _espacio hiperbólico_ es un modelo fundamental de [[Geometría no euclideana|geometría no euclídea]] con curvatura constante negativa. Es el análogo no euclídeo del espacio euclídeo, pero con estructura geométrica distinta que permite, por ejemplo, que la suma de los ángulos internos de un triángulo sea menor que $\pi$.
+El _espacio hiperbólico_ es un modelo fundamental de [geometría no euclídea](Geometría%20no%20euclideana.md) con curvatura constante negativa. Es el análogo no euclídeo del espacio euclídeo, pero con estructura geométrica distinta que permite, por ejemplo, que la suma de los ángulos internos de un triángulo sea menor que $\pi$.
 
-El espacio hiperbólico de dimensión $n$ se denota por $\mathbb{H}^n$ y puede definirse como una [[Variedades Riemannianas|variedad Riemanniana]] completa, simplemente conexa, con curvatura seccional constante $K = -1$.
+El espacio hiperbólico de dimensión $n$ se denota por $\mathbb{H}^n$ y puede definirse como una [variedad Riemanniana](Variedades%20Riemannianas.md) completa, simplemente conexa, con curvatura seccional constante $K = -1$.
 
 ### Modelos
 
@@ -38,7 +38,7 @@ Existen varias representaciones equivalentes de $\mathbb{H}^n$:
 
 - No satisface el postulado de las paralelas de Euclides: por un punto exterior a una recta existen infinitas geodésicas que no la intersectan.
 
-- La métrica hiperbólica define una [[Distancia hiperbólica|distancia]] que crece rápidamente conforme los puntos se acercan al borde del modelo.
+- La métrica hiperbólica define una [distancia](Distancia%20hiperbólica) que crece rápidamente conforme los puntos se acercan al borde del modelo.
 
 
 #geometría-diferencial

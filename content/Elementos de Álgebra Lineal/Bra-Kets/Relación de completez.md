@@ -1,8 +1,8 @@
-Sea $\{\ket{i}\}_{i=1}^{n}$ una [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] para un [[Espacio de Hilbert]] $\mathcal{H}$. La _relación de completez_ se define por la identidad:
+Sea $\{\ket{i}\}_{i=1}^{n}$ una [base](../Fundamentos/Base%20y%20dimensión.md) [ortonormal](../Producto%20interno%20y%20norma/Ortogonalidad/Ortogonalidad%20y%20Ortonormalidad.md) para un [espacio de Hilbert](../Producto%20interno%20y%20norma/Espacio%20de%20Hilbert.md) $\mathcal{H}$. La _relación de completez_ se define por la identidad:
 $$
 \sum_{i=1}^{n} \ket{i}\bra{i} = I,
 $$
-donde cada [[producto Ket-Bra]] $\ket{i}\bra{i}$ representa el [[Proyector ortogonal|proyector]] sobre el [[Subespacio generado por un conjunto de vectores|espacio generado]] por $\ket{i}$, e $I$ es el [[operador identidad]] en $\mathcal{H}$.
+donde cada [Producto Ket-Bra](Producto%20Ket-Bra.md) $\ket{i}\bra{i}$ representa el [proyector](../Operadores%20lineales/Proyector%20ortogonal.md) sobre el [espacio generado](../Fundamentos/Subespacio%20generado%20por%20un%20conjunto%20de%20vectores.md) por $\ket{i}$, e $I$ es el [Operador identidad](../Operadores%20lineales/Operador%20identidad.md) en $\mathcal{H}$.
 
 Dado un vector arbitrario $\ket{v} \in \mathcal{H}$, existen escalares $v_1, \ldots, v_n \in \mathbb{F}$ tales que:
 $$

@@ -1,4 +1,4 @@
-Un _funcional lineal_ en un [[Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$ es una función:
+Un _funcional lineal_ en un [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) $V$ sobre un campo $\mathbb{F}$ es una función:
 $$
 f: V \to \mathbb{F},
 $$
@@ -13,8 +13,8 @@ $$
 f(a\mathbf{v}) = a f(\mathbf{v})
 $$
 
-En otras palabras, un funcional lineal es una [[Operadores lineales|transformación lineal]] cuyo codominio es el campo $\mathbb{F}$.
+En otras palabras, un funcional lineal es una [transformación lineal](../Operadores%20lineales/Operadores%20lineales.md) cuyo codominio es el campo $\mathbb{F}$.
 
-Los funcionales lineales son los elementos del [[espacio dual]] $V^*$.
+Los funcionales lineales son los elementos del [Espacio dual](Espacio%20dual.md) $V^*$.
 
 #algebra-lineal 

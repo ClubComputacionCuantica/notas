@@ -1,0 +1,1 @@
+Un grafo $G = (V, E)$ se dice _conexo_ si para cada par de vértices $u, v \in V$, existe al menos un [camino](Caminos,%20senderos%20y%20rutas%20en%20un%20grafo.md) que los conecta. En caso contrario se dice que el grafo es _disconexo_.

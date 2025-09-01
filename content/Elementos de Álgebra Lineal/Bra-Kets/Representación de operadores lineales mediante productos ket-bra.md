@@ -1,10 +1,10 @@
-Sea $A: V \rightarrow W$ un [[Operadores lineales|operador lineal]], donde $V$ y $W$ son [[Espacio de Hilbert|espacios de Hilbert]] con respectivas [[Base y dimensión|bases]] [[Ortogonalidad y Ortonormalidad|ortonormales]] $\{\ket{v_i}\}_{i=1}^{n}$ para $V$ y $\{\ket{w_j}\}_{j=1}^{m}$ para $W$.
+Sea $A: V \rightarrow W$ un [operador lineal](../Operadores%20lineales/Operadores%20lineales.md), donde $V$ y $W$ son [espacios de Hilbert](../Producto%20interno%20y%20norma/Espacio%20de%20Hilbert.md) con respectivas [bases](../Fundamentos/Base%20y%20dimensión.md) [ortonormales](../Producto%20interno%20y%20norma/Ortogonalidad/Ortogonalidad%20y%20Ortonormalidad.md) $\{\ket{v_i}\}_{i=1}^{n}$ para $V$ y $\{\ket{w_j}\}_{j=1}^{m}$ para $W$.
 
 Recordemos que los operadores identidad $I_V$ e $I_W$ pueden escribirse como:
 $$
 I_V = \sum_i \ket{v_i}\bra{v_i}, \quad I_W = \sum_j \ket{w_j}\bra{w_j}
 $$
-por la [[relación de completez]] en cada espacio.
+por la [Relación de completez](Relación%20de%20completez.md) en cada espacio.
 
 Entonces, para cualquier $\ket{v} \in V$:
 $$

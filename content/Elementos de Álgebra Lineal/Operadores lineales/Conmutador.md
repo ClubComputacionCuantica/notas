@@ -1,4 +1,4 @@
-Dados dos [[operadores lineales]] $A$ y $B$ sobre un mismo [[Espacio vectorial]] (o [[espacio de Hilbert]]), el _conmutador_ de $A$ y $B$ se define como:
+Dados dos [Operadores lineales](Operadores%20lineales.md) $A$ y $B$ sobre un mismo [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) (o [espacio de Hilbert](../Producto%20interno%20y%20norma/Espacio%20de%20Hilbert.md)), el _conmutador_ de $A$ y $B$ se define como:
 $$
 [A, B] := AB - BA.
 $$

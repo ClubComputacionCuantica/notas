@@ -1,6 +1,6 @@
-Sea $A: V \rightarrow W$ un [[Operadores lineales|operador lineal]] entre dos [[Espacio vectorial|espacios vectoriales]] $V$ y $W$ de [[Base y dimensión|dimensiones]] finitas $n$ y $m$ respectivamente, sobre un mismo campo $\mathbb{F}$.
+Sea $A: V \rightarrow W$ un [operador lineal](Operadores%20lineales.md) entre dos [espacios vectoriales](../Fundamentos/Espacio%20vectorial.md) $V$ y $W$ de [dimensiones](../Fundamentos/Base%20y%20dimensión.md) finitas $n$ y $m$ respectivamente, sobre un mismo campo $\mathbb{F}$.
 
-El operador $A$ puede representarse mediante una [[Matrices|matriz]] de tamaño $m \times n$, una vez se han fijado bases en $V$ y $W$. Sean $\{\ket{v_1}, \ldots, \ket{v_n}\}$ una base de $V$ y $\{\ket{w_1}, \ldots, \ket{w_m}\}$ una base de $W$. Entonces, para cada $j$ (con $1 \leq j \leq n$), se escribe:
+El operador $A$ puede representarse mediante una [matriz](../Matrices/Matrices.md) de tamaño $m \times n$, una vez se han fijado bases en $V$ y $W$. Sean $\{\ket{v_1}, \ldots, \ket{v_n}\}$ una base de $V$ y $\{\ket{w_1}, \ldots, \ket{w_m}\}$ una base de $W$. Entonces, para cada $j$ (con $1 \leq j \leq n$), se escribe:
 $$
 A(\ket{v_j}) = a_{1j}\ket{w_1} + a_{2j}\ket{w_2} + \cdots + a_{mj}\ket{w_m},
 $$
@@ -23,7 +23,7 @@ A\ket{v}_{\text{base}} = [A] \cdot [\ket{v}]_{\text{base}}
 $$
 
 ### Espacios de Hilbert
-Si $V$ y $W$ son [[Espacio de Hilbert|espacios de Hilbert]] y se eligen [[Base y dimensión|bases]][[Ortogonalidad y Ortonormalidad|ortonormales]], la representación matricial puede obtenerse usando productos internos:
+Si $V$ y $W$ son [espacios de Hilbert](../Producto%20interno%20y%20norma/Espacio%20de%20Hilbert.md) y se eligen [bases](../Fundamentos/Base%20y%20dimensión.md)[ortonormales](../Producto%20interno%20y%20norma/Ortogonalidad/Ortogonalidad%20y%20Ortonormalidad.md), la representación matricial puede obtenerse usando productos internos:
 $$
 A_{ji} = \langle w_j | A | v_i \rangle
 $$

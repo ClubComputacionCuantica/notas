@@ -2,9 +2,9 @@ Una _matriz ortogonal_ es una matriz cuadrada $Q \in \mathbb{R}^{n \times n}$ qu
 $$
 Q^T Q = Q Q^T = I,
 $$
-donde $Q^T$ es la transpuesta de $Q$, e $I$ es la [[matriz identidad]] de orden $n$.
+donde $Q^T$ es la transpuesta de $Q$, e $I$ es la [Matriz identidad](Matriz%20identidad.md) de orden $n$.
 
-Esto equivale a decir que las columnas (y filas) de $Q$ forman un conjunto [[Ortogonalidad y Ortonormalidad|ortonormal]] respecto al [[Producto interno|producto escalar estándar]].
+Esto equivale a decir que las columnas (y filas) de $Q$ forman un conjunto [ortonormal](../Producto%20interno%20y%20norma/Ortogonalidad/Ortogonalidad%20y%20Ortonormalidad.md) respecto al [producto escalar estándar](../Producto%20interno%20y%20norma/Producto%20interno.md).
 
 ### Propiedades
 - $Q^{-1} = Q^T$

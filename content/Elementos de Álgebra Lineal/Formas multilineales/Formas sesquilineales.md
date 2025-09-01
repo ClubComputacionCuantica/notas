@@ -1,6 +1,6 @@
-Una _forma sesquilineal_ es una generalización del concepto de [[Formas multilineales|forma bilineal]] para espacios vectoriales complejos. Es una aplicación que es conjugado‑lineal en el primer argumento y lineal en el segundo.
+Una _forma sesquilineal_ es una generalización del concepto de [forma bilineal](Formas%20multilineales.md) para espacios vectoriales complejos. Es una aplicación que es conjugado‑lineal en el primer argumento y lineal en el segundo.
 
-Sea $V$ un [[Espacio vectorial]] complejo. Una aplicación:
+Sea $V$ un [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) complejo. Una aplicación:
 $$
 \varphi: V \times V \to \mathbb{C}
 $$
@@ -20,7 +20,7 @@ $$
 $$
 
 ### Ejemplo
-El [[producto interno]] usual en $\mathbb{C}^n$ es una forma sesquilineal:
+El [producto interno](../Producto%20interno%20y%20norma/Producto%20interno.md) usual en $\mathbb{C}^n$ es una forma sesquilineal:
 $$
 \langle \mathbf{v}, \mathbf{w} \rangle
 = \sum_{i=1}^n \overline{v_i}\,w_i

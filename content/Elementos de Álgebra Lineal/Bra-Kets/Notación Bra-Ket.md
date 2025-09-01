@@ -1,7 +1,7 @@
-La _notación bra-ket_, también conocida como _notación de Dirac_, es una forma elegante y compacta de representar [[Espacio vectorial|vectores]], [[Espacio dual|vectores duales]], y [[Producto interno|productos internos]] en mecánica cuántica. 
+La _notación bra-ket_, también conocida como _notación de Dirac_, es una forma elegante y compacta de representar [vectores](../Fundamentos/Espacio%20vectorial.md), [vectores duales](../Funcionales%20lineales%20y%20espacio%20dual/Espacio%20dual.md), y [productos internos](../Producto%20interno%20y%20norma/Producto%20interno.md) en mecánica cuántica. 
 En este contexto, trabajamos con espacios de dimensión finita.
 
-Sea $V = \mathbb{C}^n$, el [[Espacio vectorial]] complejo de [[Base y dimensión|dimensión]] $n$, dotado con el [[Producto interno|producto interno]] canónico:
+Sea $V = \mathbb{C}^n$, el [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) complejo de [dimensión](../Fundamentos/Base%20y%20dimensión.md) $n$, dotado con el [producto interno](../Producto%20interno%20y%20norma/Producto%20interno.md) canónico:
 $$
 \langle \cdot | \cdot \rangle : \mathbb{C}^n \times \mathbb{C}^n \to \mathbb{C}.
 $$
@@ -11,7 +11,7 @@ $$
    $$
    donde $a_1, \dots, a_n \in \mathbb{C}$ son las componentes del vector.
 
-2. **Bra**: Un bra $\langle \phi|$ es el [[Espacio dual|dual]] de un ket. Es decir:
+2. **Bra**: Un bra $\langle \phi|$ es el [dual](../Funcionales%20lineales%20y%20espacio%20dual/Espacio%20dual.md) de un ket. Es decir:
    $$
    \langle \phi| = (\ket{\phi})^{\dagger} = \begin{bmatrix} b_1^* & b_2^* & \ldots & b_n^* \end{bmatrix}
    $$

@@ -1,12 +1,12 @@
 La *transformada de Fourier cuántica* (*Quantum Fourier Transform*, *QFT*) es la versión cuántica de la transformada discreta de Fourier (DFT). Actúa sobre estados de base computacional y transforma un estado $\ket{x}$ en una superposición de todos los posibles estados $\ket{y}$ con fases determinadas por $x$ y $y$.
 
-Dada una [[Base y dimensión|base]] [[Ortogonalidad y Ortonormalidad|ortonormal]] $\{\ket{0}, \ket{1}, \dots, \ket{2^n - 1}\}$, la QFT está definida por:
+Dada una [base](../../../Elementos%20de%20Álgebra%20Lineal/Fundamentos/Base%20y%20dimensión.md) [ortonormal](../../../Elementos%20de%20Álgebra%20Lineal/Producto%20interno%20y%20norma/Ortogonalidad/Ortogonalidad%20y%20Ortonormalidad.md) $\{\ket{0}, \ket{1}, \dots, \ket{2^n - 1}\}$, la QFT está definida por:
 $$
 \text{QFT}\ket{x} = \frac{1}{\sqrt{2^n}} \sum_{y=0}^{2^n - 1} e^{2\pi i x y / 2^n} \ket{y}, \quad x \in \{0, \dots, 2^n - 1\}.
 $$
 ### Propiedades
-- Es una transformación [[Operadores unitarios|unitaria]].
-- Puede implementarse con $O(n^2)$ [[compuertas cuánticas]].
+- Es una transformación [unitaria](../../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20unitarios.md).
+- Puede implementarse con $O(n^2)$ [Compuertas cuánticas](../Compuertas%20cuánticas/Compuertas%20cuánticas.md).
 - Su inversa es simplemente la transformada conjugada transpuesta: QFT$^{-1}$.
 
 ### Circuito cuántico para QFT

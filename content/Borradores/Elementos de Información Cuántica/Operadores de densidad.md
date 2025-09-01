@@ -1,4 +1,4 @@
-Un _operador de densidad_ $\rho$ es un [[Operadores lineales|operador]] [[Operadores positivos y semidefinidos positivos|semidefinido positivo]] con [[Traza de un operador lineal|traza]] unitaria. 
+Un _operador de densidad_ $\rho$ es un [operador](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20lineales.md) [semidefinido positivo](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20positivos%20y%20semidefinidos%20positivos.md) con [traza](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Traza%20de%20un%20operador%20lineal.md) unitaria. 
 
 Un operador de densidad describe el estado estadístico de un sistema cuántico en un espacio de Hilbert.
 
@@ -8,8 +8,8 @@ Un operador de densidad describe el estado estadístico de un sistema cuántico 
 
 El operador de densidad cumple con las siguientes propiedades:
 
-- **[[Operadores Hermitianos|Hermiticidad]]:** $\rho = \rho^\dagger$.
-- **[[Traza de un operador lineal|Traza]] unitaria:** $\text{Tr}(\rho) = 1$.
+- **[Hermiticidad](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20Hermitianos.md):** $\rho = \rho^\dagger$.
+- **[Traza](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Traza%20de%20un%20operador%20lineal.md) unitaria:** $\text{Tr}(\rho) = 1$.
 - **Positividad:** $\rho$ es semidefinido positivo, i.e. $\bra{\phi}\rho\ket{\phi} \geq 0$ para cualquier vector de estado $\ket{\phi}$.  
 
 #### Caracterización de estados mezcla

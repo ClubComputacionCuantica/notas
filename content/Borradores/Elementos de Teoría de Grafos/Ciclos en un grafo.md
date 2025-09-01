@@ -1,1 +1,0 @@
-Un _ciclo_ en un [[grafo]] $G=(V,E)$ es un [[Caminos, senderos y rutas en un grafo|{a,b}-sendero]] tal que $a=b$.

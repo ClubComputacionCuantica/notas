@@ -1,9 +1,9 @@
-Sea $A: V \rightarrow W$ un [[Operadores lineales|operador lineal]] entre dos [[Espacios normados|espacios normados]] $V$ y $W$ sobre un campo $\mathbb{F}$. Decimos que $A$ es un _operador acotado_ si existe una constante $C > 0$ tal que:
+Sea $A: V \rightarrow W$ un [operador lineal](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Operadores%20lineales.md) entre dos [espacios normados](Espacios%20normados.md) $V$ y $W$ sobre un campo $\mathbb{F}$. Decimos que $A$ es un _operador acotado_ si existe una constante $C > 0$ tal que:
 $$
 \|A(v)\|_W \leq C\|v\|_V \quad \text{para todo } v \in V.
 $$
 
-Es decir, $A$ no amplifica arbitrariamente la norma de los vectores. Esta propiedad es equivalente a la [[Continuidad de operadores lineales|continuidad]] de $A$ en espacios normados.
+Es decir, $A$ no amplifica arbitrariamente la norma de los vectores. Esta propiedad es equivalente a la [continuidad](Continuidad%20de%20operadores%20lineales.md) de $A$ en espacios normados.
 
 ### Interpretación
 Los operadores acotados preservan el control sobre el "tamaño" (norma) de los vectores. Son el análogo funcional de las matrices con entradas finitas, pero en contextos potencialmente infinito-dimensionales.
@@ -17,6 +17,6 @@ $$
 ### Propiedades
 - Todo operador lineal definido sobre un espacio de dimensión finita es acotado.
 - Si $A$ es acotado, entonces es continuo en todo $V$.
-- $\mathcal{B}(V, W)$ es un [[Espacios normados|espacio normado]]; si $W$ es un [[espacio de Banach]], entonces $\mathcal{B}(V, W)$ también lo es.
+- $\mathcal{B}(V, W)$ es un [espacio normado](Espacios%20normados.md); si $W$ es un [espacio de Banach](Espacio%20de%20Banach.md), entonces $\mathcal{B}(V, W)$ también lo es.
 
 #analisis-funcional 

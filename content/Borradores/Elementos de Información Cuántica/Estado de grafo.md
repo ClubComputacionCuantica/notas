@@ -1,10 +1,10 @@
-Los *estados de grafo* son una subclase de [[Estados multipartitos|estados cuánticos multipartitos]] que se asocian y representan con un [[grafo]] $G=(V,E)$.
+Los *estados de grafo* son una subclase de [estados cuánticos multipartitos](Estados%20multipartitos.md) que se asocian y representan con un [Grafo](../Elementos%20Adicionales/Teoría%20de%20Grafos/Grafo.md) $G=(V,E)$.
 
-#OQN Los estados de grafo pueden ser descritos al aplicar una compuerta [[Controlled-Z|Z-controlada]], $CZ = diag(1,1,1,-1)$ entre cualesquiera dos qubits que están conectados por un vértice en $E$. Además, preparamos todos los qubits en $V$ en el estado $\ket{+}$. Entonces, el estado de grafo es
+#OQN Los estados de grafo pueden ser descritos al aplicar una compuerta [Z-controlada](Controlled-Z), $CZ = diag(1,1,1,-1)$ entre cualesquiera dos qubits que están conectados por un vértice en $E$. Además, preparamos todos los qubits en $V$ en el estado $\ket{+}$. Entonces, el estado de grafo es
 $$
 |G\rangle = \prod_{(i, j) \in E} CZ_{ij} \left(\bigotimes_{v \in V} |+\rangle_v\right)
 $$
-Equivalentemente, el estado de grafo $\ket{G}$ se define como el único [[Eigenvalores y eigenvectores|eigenestado]] con eigenvalor +1 de los [[Establizador|estabilizadores]]
+Equivalentemente, el estado de grafo $\ket{G}$ se define como el único [eigenestado](../../Elementos%20de%20Álgebra%20Lineal/Operadores%20lineales/Teoría%20espectral,%20eigenvalores%20y%20eigenvectores/Eigenvalores%20y%20eigenvectores.md) con eigenvalor +1 de los [estabilizadores](Establizador)
 $$
 K_a = \sigma_x^{(a)} \prod_{(a,b)\in E}\sigma_z^{(b)}
 $$

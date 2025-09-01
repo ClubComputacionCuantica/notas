@@ -5,7 +5,7 @@ Usualmente denotamos a los registros por las letras $X, Y, Z$.
 La noción de registro es abstracta y permite mantener generalidad sin hablar de algún sistema o experimento especifico.
 
 Ejemplo:
-* Considere el alfabeto binario $\Sigma = \{0,1\}$. El registro clásico correspondiente se llama bit, mientras que el alfabeto cuántico corresponde al [[qubit]].
+* Considere el alfabeto binario $\Sigma = \{0,1\}$. El registro clásico correspondiente se llama bit, mientras que el alfabeto cuántico corresponde al [Qubit](../Elementos%20de%20Información%20Cuántica/Qubit.md).
 
 ## Registros compuestos
 Considere los alfabetos $\Sigma_1,...,\Sigma_n$ correspondientes a los registros $X_1,...,X_n$. 

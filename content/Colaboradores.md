@@ -9,5 +9,5 @@ Redacción de contenidos, diseño del sitio y desarrollo general del proyecto.
 ---
 #### Emma Unzueta
 
-Curación de contenidos, revisión conceptual y mejoras en la estructura del sitio.
+Curado de contenidos, revisión conceptual y mejoras en la estructura del sitio.
 [LinkedIn](https://www.linkedin.com/in/emma-iii/)

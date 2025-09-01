@@ -1,4 +1,4 @@
-Un [[Operadores lineales|operador lineal]] $A : V \rightarrow V$ en un [[Espacio vectorial]] $V$ sobre $\mathbb{R}$ o $\mathbb{C}$, equipado con un [[producto interno]], se dice que es _positivo_ si para todo vector $\ket{v} \in V$, se cumple que $(\ket{v},A\ket{v})$ es real y no negativo:
+Un [operador lineal](Operadores%20lineales.md) $A : V \rightarrow V$ en un [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) $V$ sobre $\mathbb{R}$ o $\mathbb{C}$, equipado con un [producto interno](../Producto%20interno%20y%20norma/Producto%20interno.md), se dice que es _positivo_ si para todo vector $\ket{v} \in V$, se cumple que $(\ket{v},A\ket{v})$ es real y no negativo:
 $$
 \braket{v|A|v} \equiv (\ket{v}, A\ket{v}) \geq 0.
 $$
@@ -12,7 +12,7 @@ Alternativamente, se dice que $A \in \mathcal{L}(V)$ es _semidefinido positivo_ 
 $$
 A = S^\dagger S,
 $$
-donde $S^\dagger$ es el [[Adjunto de un operador|adjunto]] de $S$.
+donde $S^\dagger$ es el [adjunto](Adjunto%20de%20un%20operador.md) de $S$.
 
 Al conjunto de operadores semidefinidos positivos sobre $V$ se le denota por:
 $$
@@ -21,7 +21,7 @@ $$
 
 ### Resultados
 
-1. Todo operador positivo es [[Operadores Hermitianos|Hermitiano]].
+1. Todo operador positivo es [Hermitiano](Operadores%20Hermitianos.md).
 
 2. Para cualquier operador $A$, el operador $A^\dagger A$ es positivo:
 $$

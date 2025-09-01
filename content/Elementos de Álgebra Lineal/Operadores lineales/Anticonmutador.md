@@ -1,4 +1,4 @@
-Sean $A: V \rightarrow V$ y $B: V \rightarrow V$ [[Operadores lineales|operadores lineales]] en un [[Espacio vectorial|Espacio vectorial]] $V$ sobre un campo $\mathbb{F}$.
+Sean $A: V \rightarrow V$ y $B: V \rightarrow V$ [operadores lineales](Operadores%20lineales.md) en un [espacio vectorial](../Fundamentos/Espacio%20vectorial.md) $V$ sobre un campo $\mathbb{F}$.
 
 El _anticonmutador_ de $A$ y $B$, denotado por $\{A, B\}$, se define como el operador lineal:
 $$
